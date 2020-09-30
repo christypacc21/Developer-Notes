@@ -10,6 +10,6 @@ So I am taking some notes to spread the knowledge and experiences to anyone in n
 
 Link : https://christypacc21.gitbook.io/developer-notes/
 
-@ 2020 by Christy Law (GitHub : christypacc21)
+@ 2020 by christypacc21
 
 路漫漫其修遠兮 吾將上下而求索
