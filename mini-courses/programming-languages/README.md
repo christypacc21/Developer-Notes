@@ -17,7 +17,7 @@ This question is quite complicated but in short, I think the answer is it is har
 
 ### 1\) Closer to machine\(i.e. computers\) VS Closer to human 
 
-#### \(Related CS foundation knowledge: Complier and computer system\)
+#### \(Related CS foundation knowledge: Compilers and Interpreters\)
 
 The way computers understand commands is different from humans. Computers understand commands in bits \(ie combinations of 0 and 1\) while humans use human languages like English. 
 
@@ -29,7 +29,7 @@ Closer to one end means further from the other end:
 
 **\[Closer to machine\]** means the language is rawer \(looking uglier to humans\) and needs humans to do more manual configurations\(eg handle pointers for memory management\) to suit the computer. It provides more autonomy for programmers to control the computer. It needs less time to be translated into those 0 and 1 so the programs generally run a lot faster \(eg C can run 300 times faster than Python in some extreme cases\). 
 
-**\[Closer to human\]** means more readable and handy to humans but needs more extra computation power to be translated \(deeper knowledge of \[how the "translation" works\] is related to cs foundation knowledge "Complier" and how computers understand commands\) into raw machine code \(ie 0s and 1s\).
+**\[Closer to human\]** means more readable and handy to humans but needs more extra computation power to be translated \(deeper knowledge of \[how the "translation" works\] is related to cs foundation knowledge "Compliers and Interpreters" and how computers understand commands\) into raw machine code \(ie 0s and 1s\).
 
 Some programming languages like C++ is closer to the Machine but harder for a human to write and understand. So they are more suitable for writing low latency programs like high-frequency trading programs when program running speed is the highest concern. 
 
@@ -55,6 +55,10 @@ _Understanding these 2 pairs is enough for you to understand the syntax of a lan
 **More advanced and detailed separation of types \(just in case you are curious\) are:**
 
 ![](../../.gitbook/assets/screenshot-2020-10-03-at-12.42.51-am.png)
+
+
+
+**Notes:** For a deeper knowledge of how the computers understand programming languages, from an academic perspective, you can refer to this classical book \(Not recommending reading it when you are a beginner just want to start coding right away\): **&lt;Structure and Interpretation of Computer Programs&gt; \(SCIP in short\)**
 
 
 
