@@ -18,7 +18,7 @@ Also, Since I am also still learning, please feel free to correct me \(by messag
 
 路漫漫其修遠兮 吾將上下而求
 
-\(The Blog is still under construction\)
+\(The Blog is still under construction, I will keep filling the holes\)
 
 GitHub : [https://github.com/christypacc21](https://github.com/christypacc21)
 
