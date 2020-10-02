@@ -4,7 +4,7 @@ description: >-
   Scalability, Extensibility, Security etc.
 ---
 
-# System Design - Not solely SAs' field
+# System Design
 
 System Design - Not solely Solution Architects' field. 
 
