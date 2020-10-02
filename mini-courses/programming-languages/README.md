@@ -29,9 +29,9 @@ Closer to one end means further from the other end:
 
 **\[Closer to human\]** means more readable and handy to humans but needs more extra power to be translated \(deeper knowledge of \[how the "translation" works\] is related to cs foundation knowledge "Complier" and how computers understand commands\) into machine code \(0 and 1\).
 
-Some programming languages like C++ is closer to the Machine but harder for a human to write and understand. So they are more suitable for writing low latency programs like high-frequency trading programs when speed is the highest concern. 
+Some programming languages like C++ is closer to the Machine but harder for a human to write and understand. So they are more suitable for writing low latency programs like high-frequency trading programs when program running speed is the highest concern. 
 
-Some programming languages like Python is easier for a Human to understand and pick up. Some of them like Python and Javascript don't even need you to understand deeper CS knowledge like memory management, pointers, and garbage collection, and you can still use it smoothly. It is more suitable for commercial usages like making a normal book store application \(easier to learn so are more flexible for software development teams to pick up and start developing right away\) or for non-hardcore programmers like biology scientists and business analysts to do data analysis. A lot of complicated computer science concepts are actually encapsulated so the programmers can just focus on their usage.
+Some programming languages like Python is closer to human and easier for a Human to understand and pick up. Some of them like Python and Javascript don't even need you to understand deeper CS knowledge like memory management, pointers, and garbage collection, and you can still use it smoothly. They are more suitable for commercial usages like making a normal book store application \(easier to learn so are more flexible for software development teams to pick up and start developing right away\) or for non-hardcore programmers like biology scientists and business analysts to do data analysis. A lot of complicated computer science concepts are actually encapsulated so the programmers can just focus on their usage.
 
 ### 2\) Types of Programming Languages
 
@@ -48,7 +48,7 @@ To understand a programming language, you can start by knowing what type it is.
 
 The above graph from this blog [https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b) , has categorized different programming languages into 4 categories. This blog pretty much explained the concepts.
 
-Understanding these 2 pairs is enough for you to understand the syntax of a language.
+_Understanding these 2 pairs is enough for you to understand the syntax of a language._
 
 **More advanced and detailed separation of types \(just in case you are curious\) are:**
 
