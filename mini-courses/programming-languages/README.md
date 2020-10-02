@@ -23,7 +23,7 @@ This question is quite complicated but in short, I think the answer is it is har
 
 The way computers understand commands is different from humans. Computers understand commands in bits \(ie combinations of 0 and 1\) while humans use human languages like English. 
 
-Closer to one end means further from the other end:
+**Closer to one end means further from the other end:**
 
 ![](../../.gitbook/assets/untitled-diagram.png)
 
