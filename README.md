@@ -6,6 +6,8 @@ description: >-
 
 # Introduction
 
+Blog Link : [https://christypacc21.gitbook.io/developer-notes/](https://christypacc21.gitbook.io/developer-notes/)
+
 I am a 1997 girl. I entered the IT industry WITHOUT a CS degree 🎓 and have been working as a software engineer for around two years.
 
 It has been an unbelievably amazing journey. 💻 ❤️ 🐫
