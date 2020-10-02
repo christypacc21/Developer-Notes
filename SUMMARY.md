@@ -59,13 +59,14 @@
 
 ## Experience share <a id="experience-share-1"></a>
 
+* [My path from 0 to presnt](experience-share-1/my-path-from-0-to-presnt.md)
 * [The Importance of Luck in life](experience-share-1/the-importance-of-luck-in-life.md)
 * [The Importance of passion](experience-share-1/the-importance-of-passion.md)
-* [Effective communication](experience-share-1/effective-communication.md)
 * [How I learn new Tech knowledge](experience-share-1/how-i-learn-new-tech-knowledge.md)
 * [Get the right book\(s\) to read](experience-share-1/get-the-right-book-s-to-read.md)
 * [Recommended Tech websites](experience-share-1/recommended-tech-websites.md)
 * [How to survive in tech as a female SE](experience-share-1/how-to-survive-in-tech-as-a-female-se.md)
+* [Effective communication](experience-share-1/effective-communication.md)
 * [Fixing IPhone myself](experience-share-1/fixing-iphone-myself.md)
 * [How to maintain body shape during quarantine time](experience-share-1/how-to-maintain-body-shape-during-quarantine-time.md)
 
