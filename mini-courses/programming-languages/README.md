@@ -27,7 +27,7 @@ Closer to one end means further from the other end:
 
 **\[Closer to machine\]** means the language is rawer \(looking uglier to humans\) and needs humans to do more manual configurations\(eg handle pointers for memory management\) to suit the computer. It provides more autonomy for programmers to control the computer. It needs less time to be translated into those 0 and 1 so the programs generally run a lot faster \(eg C can run 300 times faster than Python in some extreme cases\). 
 
-**\[Closer to human\]** means more readable and handy to humans but needs more extra power to be translated \(deeper knowledge of \[how the "translation" works\] is related to cs foundation knowledge "Complier" and how computers understand commands\) into machine code \(0 and 1\).
+**\[Closer to human\]** means more readable and handy to humans but needs more extra computation power to be translated \(deeper knowledge of \[how the "translation" works\] is related to cs foundation knowledge "Complier" and how computers understand commands\) into raw machine code \(ie 0s and 1s\).
 
 Some programming languages like C++ is closer to the Machine but harder for a human to write and understand. So they are more suitable for writing low latency programs like high-frequency trading programs when program running speed is the highest concern. 
 
