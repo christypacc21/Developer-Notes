@@ -11,7 +11,7 @@ description: >-
 
 #### When I started learning different programming languages, I thought of a question: 
 
-### **Why there are many programming languages out there? Is it possible to unify them all into just one programming language?** 
+### **Why there are so many programming languages out there? Is it possible to unify them all into just one programming language?** 
 
 This question is quite complicated but in short, I think the answer is it is hard and unnecessary in the current era \(not sure in the future. Maybe one day in the future, supercomputers appear and thus computation power is no longer an issue worth concerning. But at least in the current era\): different programming languages serve different purposes, and some conflicts exist between fulfilling one requirement versus another so they have to separate into different languages. 
 
