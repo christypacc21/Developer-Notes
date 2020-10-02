@@ -1,8 +1,8 @@
 ---
 description: >-
   This introduction passage aims to give you a broad picture of how to
-  understand a programming language. In the next chapters we will start focusing
-  on introducing different languages specifically.
+  understand a programming language. In the next chapters, we will start
+  focusing on introducing different languages specifically.
 ---
 
 # Programming Languages
@@ -15,7 +15,9 @@ This question is quite complicated but in short, I think the answer is it is har
 
 ### We can view this question in a few perspectives:
 
-### 1\) Closer to machine\(i.e. computers\) VS Closer to human \(Related CS foundation knowledge: Complier and computer system\)
+### 1\) Closer to machine\(i.e. computers\) VS Closer to human 
+
+#### \(Related CS foundation knowledge: Complier and computer system\)
 
 The way computers understand commands is different from humans. Computers understand commands in bits \(ie combinations of 0 and 1\) while humans use human languages like English. 
 
@@ -56,7 +58,7 @@ _Understanding these 2 pairs is enough for you to understand the syntax of a lan
 
 
 
-
+### In the next chapters, we will start focusing on introducing different languages specifically.
 
 
 
