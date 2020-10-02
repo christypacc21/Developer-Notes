@@ -10,8 +10,8 @@
   * [Computer Network](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/computer-network.md)
   * [Algorithms & Data Structures](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/algorithms-and-data-structures.md)
 * [Other Topics](cs-foundation-knowledge-1/other-theorectical-cs-topics/README.md)
-  * [Database System](cs-foundation-knowledge-1/other-theorectical-cs-topics/database-system.md)
-  * [Complier](cs-foundation-knowledge-1/other-theorectical-cs-topics/complier.md)
+  * [Database Systems](cs-foundation-knowledge-1/other-theorectical-cs-topics/database-system.md)
+  * [Compliers](cs-foundation-knowledge-1/other-theorectical-cs-topics/complier.md)
 
 ## Professional Software Engineer
 
@@ -43,6 +43,36 @@
   * [Java](mini-courses/programming-languages/java.md)
 * [Operation System](mini-courses/operation-system/README.md)
   * [Linux](mini-courses/operation-system/linux.md)
-* [Frontend](mini-courses/frontend.md)
-* [Backend](mini-courses/backend.md)
+* [Frontend](mini-courses/frontend/README.md)
+  * [Frameworks](mini-courses/frontend/frameworks.md)
+  * [HTML CSS JavaScript](mini-courses/frontend/html-css-javascript/README.md)
+    * [Template engines](mini-courses/frontend/html-css-javascript/template-engines.md)
+    * [React](mini-courses/frontend/html-css-javascript/react.md)
+    * [Angular](mini-courses/frontend/html-css-javascript/angular.md)
+* [Backend](mini-courses/backend/README.md)
+  * [Node.js](mini-courses/backend/node.js.md)
+  * [Django](mini-courses/backend/django.md)
+  * [Spring Boot](mini-courses/backend/spring-boot.md)
+  * [MySQL](mini-courses/backend/mysql.md)
+  * [Redis](mini-courses/backend/redis.md)
+  * [RESTFUL Apis](mini-courses/backend/restful-apis.md)
+
+## Experience share <a id="experience-share-1"></a>
+
+* [The Importance of Luck in life](experience-share-1/the-importance-of-luck-in-life.md)
+* [The Importance of passion](experience-share-1/the-importance-of-passion.md)
+* [Effective communication](experience-share-1/effective-communication.md)
+* [How I learn new Tech knowledge](experience-share-1/how-i-learn-new-tech-knowledge.md)
+* [Get the right book\(s\) to read](experience-share-1/get-the-right-book-s-to-read.md)
+* [Recommended Tech websites](experience-share-1/recommended-tech-websites.md)
+* [How to survive in tech as a female SE](experience-share-1/how-to-survive-in-tech-as-a-female-se.md)
+* [Fixing IPhone myself](experience-share-1/fixing-iphone-myself.md)
+* [How to maintain body shape during quarantine time](experience-share-1/how-to-maintain-body-shape-during-quarantine-time.md)
+
+## Other information <a id="other-information-1"></a>
+
+* [Geographical Differences - Find a right place for yourself](other-information-1/geographical-differences-find-a-right-place-for-yourself.md)
+* [Industry Differences - Internet vs software vs vendor etc](other-information-1/industry-differences-internet-vs-software-vs-vendor-etc.md)
+* [Roles in the IT industry](other-information-1/roles-in-the-it-industry.md)
+* [About Christy](other-information-1/about-christy.md)
 
