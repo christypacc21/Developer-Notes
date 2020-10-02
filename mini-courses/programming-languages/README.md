@@ -41,8 +41,8 @@ To understand a programming language, you can start by knowing what type it is.
 
 **There are mainly 2 pairs of keywords :**
 
-* Dynamic VS Static
-* Strong VS Weak
+* **Dynamic VS Static**
+* **Strong VS Weak**
 
 ![](../../.gitbook/assets/screenshot-2020-10-03-at-2.05.39-am.png)
 
