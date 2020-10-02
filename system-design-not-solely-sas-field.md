@@ -8,13 +8,13 @@ description: >-
 
 System Design - Not solely Solution Architects' field. 
 
-How to design high-quality systems that can really solve the business problem and face future challenges.
+How to design high-quality systems that can really solve business problems and face future challenges.
 
 The ability to think in a bigger picture can let you go further, even if you are still a junior developer.
 
 \(to be continued\)
 
-## A list of the Resources I use to learn System Design \(\*Practice is always the best way to learn tho\):
+## Resources I use to learn System Design \(\*Practice is always the best way to learn though\):
 
 ## 1\) Github Repo: [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
