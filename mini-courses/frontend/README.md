@@ -15,7 +15,9 @@ description: >-
 
 #### 2\) Book: Professional JavaScript for Web Developers \(4th Edition\)
 
-![Advanced : This book includes detailed knowledge you need to know while working on a web application&apos;s frontend.](../../.gitbook/assets/screenshot-2020-10-04-at-12.46.52-am.png)
+![](../../.gitbook/assets/screenshot-2020-10-04-at-12.46.52-am.png)
 
-[https://www.amazon.com/Professional-JavaScript-Developers-Matt-Frisbie/dp/1119366445](https://www.amazon.com/Professional-JavaScript-Developers-Matt-Frisbie/dp/1119366445)
+{% embed url="https://www.amazon.com/Professional-JavaScript-Developers-Matt-Frisbie/dp/1119366445" caption="Advanced : This book includes detailed knowledge you need to know while working on a web application\'s frontend." %}
+
+
 
