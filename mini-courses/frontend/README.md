@@ -11,7 +11,7 @@ description: >-
 
 #### While working on the frontend, remember to beware of Browser Compatibility problems. 
 
-Different browsers have different behaviors so some functions or syntax of JavaScript cannot run on some specific browsers \(eg can run on Chrome but cannot run on IE\) or specific versions of browsers \(eg older versions cannot understand the newer version JavaScript's syntax\). 
+Different browsers have different behaviors so some functions cannot run on some browsers \(eg can run on Chrome but cannot run on IE\) or some versions of browsers \(eg older versions cannot understand the newer version JavaScript's syntax\). 
 
 **\[Can I use\] is a handy tool to check for compatibility:** 
 
