@@ -4,13 +4,15 @@ description: The official documentation is very well written so can rely on.
 
 # React \(TS / JS Library\)
 
+I like React.
+
 will add more content...
 
 ## Resources recommended:
 
 #### 1\) \[Official Documentation\]
 
-{% embed url="https://reactjs.org/" %}
+{% embed url="https://reactjs.org/" caption="Try to follow the tutorial there to make a toy app" %}
 
 #### 2\) \[Udemy courses\] React - The Complete Guide \(incl Hooks, React Router, Redux\)
 
