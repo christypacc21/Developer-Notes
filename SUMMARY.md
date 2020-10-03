@@ -82,3 +82,7 @@
 * [Roles in the IT industry](other-information-1/roles-in-the-it-industry.md)
 * [About Christy](other-information-1/about-christy.md)
 
+## Message Box
+
+* [Contact](message-box/contact.md)
+
