@@ -7,7 +7,7 @@ description: >-
 
 # Frameworks & Libraries
 
-Frameworks and Libraries speed up your development speed \(i.e. you don't need to code the utilities from scratch \(eg configuring a web server from scratch\) \(we say it "reinventing the wheel"\), the frameworks or libraries has already provided you with those wheels for you to use them directly, so you have more time to focus on the business logic\). 
+Frameworks and Libraries speed up application development. You don't need to code the utilities from scratch \(eg configuring a web server from scratch\) \(we say it "reinventing the wheel"\), the frameworks or libraries has already provided you with those wheels for you to use them directly. Therefore, you have more time to focus on coding the business logic. 
 
 Frameworks can even help to unify the project's code architecture so that large development teams can collaborate more easily. 
 
