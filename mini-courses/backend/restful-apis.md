@@ -1,2 +1,2 @@
-# RESTFUL Apis
+# RESTFUL APIs \(Architectural Style\)
 

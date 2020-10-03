@@ -1,2 +1,2 @@
-# Redis
+# Redis \(Caching Database\)
 
