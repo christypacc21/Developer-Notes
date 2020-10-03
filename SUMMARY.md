@@ -11,13 +11,11 @@
   * [Algorithms & Data Structures](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/algorithms-and-data-structures.md)
 * [Other Topics](cs-foundation-knowledge-1/other-theorectical-cs-topics/README.md)
   * [Database Systems](cs-foundation-knowledge-1/other-theorectical-cs-topics/database-system.md)
-  * [Compliers](cs-foundation-knowledge-1/other-theorectical-cs-topics/complier.md)
+  * [Compilers and Interpreters](cs-foundation-knowledge-1/other-theorectical-cs-topics/complier.md)
+  * [Programmers' Mathematics](cs-foundation-knowledge-1/other-theorectical-cs-topics/programmers-mathematics.md)
 
 ## Professional Software Engineer
 
-* [What tech stack to choose](professional-software-engineer/what-tech-stack-to-choose/README.md)
-  * [List of Tech Fields](professional-software-engineer/what-tech-stack-to-choose/list-of-tech-fields.md)
-  * [List of General Dev Tools](professional-software-engineer/what-tech-stack-to-choose/untitled-1.md)
 * [Development Process](professional-software-engineer/software-development-process/README.md)
   * [Agile vs Waterfall](professional-software-engineer/software-development-process/agile-vs-waterfall.md)
   * [Testing - TDD vs BDD vs Null](professional-software-engineer/software-development-process/testing-tdd-vs-bdd-vs-null.md)
@@ -32,6 +30,9 @@
   * [Tools to make things easier](professional-software-engineer/writing-clean-code/tools-to-make-things-easier.md)
 * [Documentation](professional-software-engineer/documentation-and-knowledge-transfer.md)
 * [Version Control - Git](professional-software-engineer/version-control-git.md)
+* [What tech stack to choose](professional-software-engineer/what-tech-stack-to-choose/README.md)
+  * [List of Tech Fields](professional-software-engineer/what-tech-stack-to-choose/list-of-tech-fields.md)
+  * [List of General Dev Tools](professional-software-engineer/what-tech-stack-to-choose/untitled-1.md)
 * [Picking up a tech stack](professional-software-engineer/how-to-pick-up-a-tech-stack-quickily.md)
 * [System Design](professional-software-engineer/system-design-not-solely-sas-field.md)
 
