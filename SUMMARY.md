@@ -42,6 +42,7 @@
   * [Javascript](mini-courses/programming-languages/javascript.md)
   * [Java](mini-courses/programming-languages/java.md)
   * [Go](mini-courses/programming-languages/go.md)
+  * [Relational database - SQL](mini-courses/programming-languages/relational-database-sql.md)
 * [Operation System](mini-courses/operation-system/README.md)
   * [Linux](mini-courses/operation-system/linux.md)
 * [Frontend](mini-courses/frontend/README.md)
