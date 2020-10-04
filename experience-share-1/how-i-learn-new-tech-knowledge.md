@@ -30,11 +30,3 @@ Of course, some of them are more advanced so I cannot understand them at first g
 
 Along the study journey, I like making notes to organize and record what I have learned.
 
-
-
-
-
-
-
-
-
