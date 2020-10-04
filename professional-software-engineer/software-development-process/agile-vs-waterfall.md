@@ -15,15 +15,13 @@ Waterfall and Agile are actually two choices of product development approach \(o
 
 **In software development, Agile and Waterfall are actually not two choices.** Agile is actually a new improved way appearing aiming to replace Waterfall and tackle the old way's deficiencies. It is because Waterfall lacks flexibility and no longer fits the current digital era's rapidly changing environment.  
 
-**Beware in mind that Agile and Waterfall are actually mindsets instead of sets of static rules that you have to strictly follow.** They are more like "interfaces" in Java. And then you, the team, decides how to "implement" either one of them into your project, according to your own project's situations. After all the goal is to make the software development process runs smoothly and effectively.
-
-#### Please read this article about the history from Waterfall to Agile:
-
-{% embed url="https://techbeacon.com/app-dev-testing/agility-beyond-history-legacy-agile-development" %}
+**Beware in mind that Agile and Waterfall are actually mindsets instead of sets of static rules that you have to strictly follow.** They are more like "interfaces" in Java. And then you, the team, decides how to "implement" either one of them into your project, according to your own project's situations. After all the ultimate goal is to make the software development process smooth and effective.
 
 ## Waterfall
 
-Your team got a job from the customer to make a rocket. You guys get the design graph from the client. You guys starts building the rocket. After 20 years, the rocket is done. You hand in the Rocket to the client thus the delivery is finished and the job is completed. You do not have much communication with the client during the development process. The client basically will only see the rocket after 20 years when he gets the product delivered.
+![](../../.gitbook/assets/screenshot-2020-10-04-at-8.24.05-pm.png)
+
+Your team got a job from the customer to make a rocket. You guys get the design graph from the client. You guys start building the rocket. After 20 years, the rocket is done. You hand in the Rocket to the client thus the delivery is finished and the job is completed. You do not have much communication with the client during the development process. The client basically will only see the rocket after 20 years when he gets the product delivered.
 
 **\[Pros\]** 
 
@@ -39,9 +37,15 @@ When a product requirement is static and super clearly concrete. The team and th
 
 ## Agile
 
+{% embed url="https://www.youtube.com/watch?v=Z9QbYZh1YXY" %}
+
+{% embed url="https://www.youtube.com/watch?v=9TycLR0TqFA" caption="Scrum is an action methodology that implements the spirit of Agile" %}
+
 #### \[Core spirit\] 
 
-Continuous delivery. Fast iteration. Making the development process more like many loops rather than a single waterfall. There are a lot of variations of Agile while Agile is being implemented in a project but in general Agile contains these steps: 
+Agile is a set of core principles and values. Continuous delivery. Fast iteration. Making the development process more like many loops rather than a single waterfall.
+
+![From https://www.copebit.ch/waterfall-or-agile-measuring-up-methodologies/](../../.gitbook/assets/screenshot-2020-10-04-at-8.11.23-pm.png)
 
 #### **\[Pros\]** 
 
@@ -67,7 +71,25 @@ will add more content...
 
 **\[Kanban board tools\]**
 
-**Trello** - Free Kanban board tool that lets
+**Trello** - Free Kanban board tool. I not only use it for sprinting but also organize my personal schedules and take notes.
 
-**Jira** - something similar to Trello while it is not free and more powerful.
+**Jira** - A tool that includes the kanban board functions similar to Trello but it is not free and much more powerful. It provides a full set of tools for you to work with Agile. You are very likely using it in a large project in a big team.
+
+## Additional readings: 
+
+#### 1\) Waterfall **vs** Agile in details
+
+{% embed url="https://www.copebit.ch/waterfall-or-agile-measuring-up-methodologies/" %}
+
+#### 2\) The history from Waterfall to Agile
+
+{% embed url="https://techbeacon.com/app-dev-testing/agility-beyond-history-legacy-agile-development" %}
+
+
+
+## In the next chapter, we will take a look at testing methodologies that are most widely used in the industry. 
+
+#### Bear in mind the word TDD, Test-Driven Development. 
+
+#### It is a super important term in modern software development. It works well with Agile and I personally think it is the best \(if not the only\) way to be adopted by developers while developing software, in order to ensure the application is doing the right things and doing the things right. Every developer should know TDD. Let's go~
 
