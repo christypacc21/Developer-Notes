@@ -20,7 +20,9 @@ After grabbing a broad view of how the thing works, I will start getting my hand
 
 #### **Stage 3\) Refer to classics**
 
-Later when I have more knowledge storage, I will start depending on more classical and comprehensive first-hand resources. For example, famous university courses \(eg Algorithms by Princeton University\), classical books in the industry \(eg "Fluent Python" book\), and authoritative academics papers \(eg "The Google File System"\). Their contents are generally systematically organized and double-checked before they can be published. Their authoritativeness is also a sign of their information's reliability. 
+Later when I have more knowledge storage, I will start depending on more classical and comprehensive first-hand resources. 
+
+For example, famous university courses \(eg Algorithms by Princeton University\), classical books in the industry \(eg "Fluent Python" and "You don't know JavaScript"\), a framework's official documentation \(only if it is a well-written one\) \(eg Django's Documentation\), and authoritative academics papers \(eg "The Google File System"\). Their contents are generally systematically organized and double-checked before they can be published. Their authoritativeness is also a sign of their information's reliability. 
 
 Of course, some of them are more advanced so I cannot understand them at first glance. Then I may refer to summaries first, or start with a more beginner-facing one instead before drilling deep into them. But yeah, you know what I mean - the spirit of referring to CLASSICS.
 
