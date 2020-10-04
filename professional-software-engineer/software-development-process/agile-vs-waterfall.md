@@ -71,7 +71,7 @@ will add more content...
 
 **\[Kanban board tools\]**
 
-**Trello** - Free Kanban board tool. I not only use it for sprinting but also organize my personal schedules and take notes.
+**Trello** - Free Kanban board tool. Apart from Agile sprinting, it is also handy for organizing personal schedules and taking notes.
 
 **Jira** - A tool that includes the kanban board functions similar to Trello's but it is not free and much more powerful. It provides a full set of tools for you to work with Agile. You are very likely using it in a large project in a big team.
 
