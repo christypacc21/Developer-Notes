@@ -1,8 +1,8 @@
 ---
 description: >-
-  The two approaches to developing software from zero to one. The Agile approach
-  is a much better approach that comes to solve the deficiencies of the
-  Waterfall approach.
+  The two approaches (actually mindsets) to developing software from zero to
+  one. Agile is a much more flexible (and in most cases, better) approach that
+  comes to solve the deficiencies of Waterfall.
 ---
 
 # Agile vs Waterfall
