@@ -60,7 +60,7 @@ _Understanding these 2 pairs is enough for you to understand the syntax of a lan
 
 
 
-**Notes:** For a deeper knowledge of how the computers understand programming languages, from an academic perspective, you can refer to this classical book \(Not recommending reading it when you are a beginner who just wants to start coding right away\): **&lt;Structure and Interpretation of Computer Programs&gt; \(SICP in short\)**
+**Notes:** For a deeper knowledge of how the computers understand programming languages, from an academic perspective, you can refer to this classical book \(Not recommended for beginners who just want to start coding right away\): **&lt;Structure and Interpretation of Computer Programs&gt; \(SICP in short\)**
 
 ![](../../.gitbook/assets/screenshot-2020-10-04-at-2.50.47-am%20%281%29.png)
 

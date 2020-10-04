@@ -1,7 +1,8 @@
 ---
 description: >-
   How to organize tasks to control the hardware parts to make the computer
-  usable and run efficiently, to maximize a computer's power.
+  usable and be able to run efficiently, in order to maximize a computer's
+  power.
 ---
 
 # Operation System
