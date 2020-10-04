@@ -32,3 +32,9 @@ Along the study journey, I like making notes to organize and record what I have 
 
 
 
+
+
+
+
+
+

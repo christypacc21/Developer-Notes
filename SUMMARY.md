@@ -64,6 +64,7 @@
 
 ## Experience share <a id="experience-share-1"></a>
 
+* [The art of choosing what to learn](experience-share-1/the-art-of-choosing-what-to-learn.md)
 * [How I learn new Tech knowledge](experience-share-1/how-i-learn-new-tech-knowledge.md)
 * [Get the right book\(s\) to read](experience-share-1/get-the-right-book-s-to-read.md)
 * [\(under construction\)](experience-share-1/under-construction/README.md)
