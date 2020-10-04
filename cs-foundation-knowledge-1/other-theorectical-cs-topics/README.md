@@ -1,4 +1,4 @@
 # Other Topics
 
-Other Theorectical CS Topics
+Other Theoretical CS Topics
 
