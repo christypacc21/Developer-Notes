@@ -14,7 +14,9 @@ I have experience of using React Native to develop a commercial application \(di
 
 _React Native can be used for making platform-typed apps like an online book store._ 
 
-The advantage is that you can develop an application that can be published to the app store without learning native\(eg IOS or Android\) app development skills. If you are a React developer knowing Javascript or TypeScript, you can basically pick it up in a short time. React Native is usually used and especially efficient for \(eg start-ups\) making POCs\(proof of concepts\) or MVP products to publish quickly with a small development team, for the market testing.
+The advantage is that you can develop a mobile-app-store-publishable application without picking up different native \(eg IOS or Android\) mobile app development tech stack \(eg Java or Swift\). You only need to write the code once in either JavaScript or TypeScript, and then you can deploy the app to different mobile app stores. 
+
+If you are a React developer familiar with Javascript or TypeScript, you can pick it up in a short time. React Native is especially efficient for start-ups or small teams to make POCs\(proof of concepts\) or MVP products to publish quickly for market feedbacks.
 
 **\[Not suitable for\]** 
 
