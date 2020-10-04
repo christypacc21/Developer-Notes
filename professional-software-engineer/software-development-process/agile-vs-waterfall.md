@@ -15,7 +15,7 @@ Waterfall and Agile are actually two choices of product development approach \(o
 
 **In software development, Agile and Waterfall are actually not two choices.** Agile is actually a new improved way appearing aiming to replace Waterfall and tackle the old way's deficiencies. It is because Waterfall lacks flexibility and no longer fits the current digital era's rapidly changing environment.  
 
-**Beware in mind that Agile and Waterfall are actually mindsets instead of sets of static rules that you have to strictly follow.** They are more like "interfaces" in Java. And then you, the team, decides how to "implement" either one of them into your project, according to your own project's situations. After all the ultimate goal is to make the software development process smooth and effective.
+**Bear in mind that Agile and Waterfall are actually sets of values and principles \("mindsets", in a simple word\).** They are more like "interfaces" in Java. And then you, the team, decides how to "implement" either one of them into your project, according to your own project's situations. After all the ultimate goal is to make the software development process smooth and effective.
 
 ## Waterfall
 
