@@ -24,5 +24,5 @@ GitHub : [https://github.com/christypacc21](https://github.com/christypacc21)
 
 @ 2020 by christypacc21
 
-路漫漫其修遠兮 吾將上下而求
+路漫漫其修遠兮 吾將上下而求索
 
