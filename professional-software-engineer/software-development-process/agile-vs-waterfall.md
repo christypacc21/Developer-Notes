@@ -21,7 +21,7 @@ Waterfall and Agile are actually two choices of product development approach \(o
 
 ![](../../.gitbook/assets/screenshot-2020-10-04-at-8.24.05-pm.png)
 
-Your team got a job from the customer to make a rocket. You guys get the design graph from the client. You guys start building the rocket. After 20 years, the rocket is done. You hand in the Rocket to the client thus the delivery is finished and the job is completed. You do not have much communication with the client during the development process. The client basically will only see the rocket after 20 years when he gets the product delivered.
+**\[An extreme case of Waterfall\]** Your team got a job from the customer to make a rocket. You guys get the design graph from the client. You guys start building the rocket. After 20 years, the rocket is done. You hand in the Rocket to the client thus the delivery is finished and the job is completed. You do not have much communication with the client during the development process. The client basically will only see the rocket after 20 years when he gets the product delivered.
 
 **\[Pros\]** 
 
@@ -29,7 +29,7 @@ Less time and effort needed for meetings, discussions, and re-planning because e
 
 **\[Cons\]**
 
- Risky if at the end the product is not what the client wants, then the 20 years are wasted. Lack of flexibility if the client always changes the requirements.
+Risky if at the end the product is not what the client wants, then the 20 years are wasted. Lack of flexibility if the client often changes the requirements.
 
 **\[When to use\]**
 
