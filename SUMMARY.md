@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [About Christy](about-christy.md)
 
 ## CS foundation knowledge <a id="cs-foundation-knowledge-1"></a>
 
@@ -18,7 +19,7 @@
 
 * [Development Process](professional-software-engineer/software-development-process/README.md)
   * [Agile vs Waterfall](professional-software-engineer/software-development-process/agile-vs-waterfall.md)
-  * [Testing - TDD vs BDD vs Null](professional-software-engineer/software-development-process/testing-tdd-vs-bdd-vs-null.md)
+  * [Testing - TDD vs BDD](professional-software-engineer/software-development-process/testing-tdd-vs-bdd-vs-null.md)
   * [Different Roles / Stakeholders](professional-software-engineer/software-development-process/different-roles-stakeholders.md)
   * [Deployment - manual vs automated\(Devops CICD\)](professional-software-engineer/software-development-process/deployment-manual-vs-automated-devops-cicd.md)
 * [Writing clean code](professional-software-engineer/writing-clean-code/README.md)
@@ -79,10 +80,10 @@
 
 ## Other information <a id="other-information-1"></a>
 
-* [Geographical Differences - Find a right place for yourself](other-information-1/geographical-differences-find-a-right-place-for-yourself.md)
-* [Industry Differences - Internet vs software vs vendor etc](other-information-1/industry-differences-internet-vs-software-vs-vendor-etc.md)
-* [Roles in the IT industry](other-information-1/roles-in-the-it-industry.md)
-* [About Christy](other-information-1/about-christy.md)
+* [\(under construction\)](other-information-1/under-construction/README.md)
+  * [Geographical Differences - Find a right place for yourself](other-information-1/under-construction/geographical-differences-find-a-right-place-for-yourself.md)
+  * [Industry Differences - Internet vs software vs vendor etc](other-information-1/under-construction/industry-differences-internet-vs-software-vs-vendor-etc.md)
+  * [Roles in the IT industry](other-information-1/under-construction/roles-in-the-it-industry.md)
 
 ## Message Box
 
