@@ -19,7 +19,9 @@
 
 * [Development Process](professional-software-engineer/software-development-process/README.md)
   * [Agile vs Waterfall](professional-software-engineer/software-development-process/agile-vs-waterfall.md)
-  * [Testing - TDD vs BDD](professional-software-engineer/software-development-process/testing-tdd-vs-bdd-vs-null.md)
+  * [Testing](professional-software-engineer/software-development-process/testing/README.md)
+    * [TDD](professional-software-engineer/software-development-process/testing/testing-tdd-vs-bdd-vs-null.md)
+    * [BDD](professional-software-engineer/software-development-process/testing/bdd.md)
   * [Different Roles / Stakeholders](professional-software-engineer/software-development-process/different-roles-stakeholders.md)
   * [Deployment - manual vs automated\(Devops CICD\)](professional-software-engineer/software-development-process/deployment-manual-vs-automated-devops-cicd.md)
 * [Writing clean code](professional-software-engineer/writing-clean-code/README.md)
