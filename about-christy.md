@@ -8,7 +8,7 @@ description: under construction...
 
 #### \(Just in case your care\) 1997 \| Capricorn \| INTJ \| 172cm
 
-#### Bachelor Degree: CUHK BBA in Professional Accountancy, 2018
+#### Bachelor's Degree: CUHK BBA in Professional Accountancy, 2018
 
 ## Proficiency
 
