@@ -40,6 +40,28 @@ description: under construction...
 * Solution Architect
 * There are few woman leaders in tech. In the future, if I have the chance to get to a higher position, I hope to contribute to improving gender equality in technology.
 
+## Personal
+
+#### Favorite songs
+
+* "Reflection" - Mulan
+
+#### Favorite Sci-fi Stories
+
+* "Westworld" - TV series by HBO
+* "The White Mountains" - Book
+* "The Hunger Games" series - Movies
+* "Ender Games" - Book
+* "Before I Fall" - Movie
+
+
+
+
+
+
+
+
+
 
 
 
