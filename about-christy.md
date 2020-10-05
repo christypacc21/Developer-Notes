@@ -10,7 +10,7 @@ description: under construction...
 
 #### Bachelor Degree: CUHK BBA in Professional Accountancy, 2018
 
-## Proficiency:
+## Proficiency
 
 ### Human Languages
 
@@ -35,7 +35,7 @@ description: under construction...
   * Java development using Spring Boot
   * Raspberry Pi and Arduino Prototyping
 
-## Career Goal:
+## Career Goal
 
 * Solution Architect
 * There are few woman leaders in tech. In the future, if I have the chance to get to a higher position, I hope to contribute to improving gender equality in technology.
