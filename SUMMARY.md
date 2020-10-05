@@ -3,18 +3,6 @@
 * [Introduction](README.md)
 * [About Christy](about-christy.md)
 
-## CS foundation knowledge <a id="cs-foundation-knowledge-1"></a>
-
-* [4 Most Important Topics](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/README.md)
-  * [Computer System](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/computer-system.md)
-  * [Operation System](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/operation-system.md)
-  * [Computer Network](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/computer-network.md)
-  * [Algorithms & Data Structures](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/algorithms-and-data-structures.md)
-* [Other Topics](cs-foundation-knowledge-1/other-theorectical-cs-topics/README.md)
-  * [Database Systems](cs-foundation-knowledge-1/other-theorectical-cs-topics/database-system.md)
-  * [Compilers and Interpreters](cs-foundation-knowledge-1/other-theorectical-cs-topics/complier.md)
-  * [Programmers' Mathematics](cs-foundation-knowledge-1/other-theorectical-cs-topics/programmers-mathematics.md)
-
 ## Professional Software Engineer
 
 * [Development Process](professional-software-engineer/software-development-process/README.md)
@@ -38,6 +26,18 @@
   * [List of General Dev Tools](professional-software-engineer/what-tech-stack-to-choose/untitled-1.md)
 * [Picking up a tech stack](professional-software-engineer/how-to-pick-up-a-tech-stack-quickily.md)
 * [System Design](professional-software-engineer/system-design-not-solely-sas-field.md)
+
+## CS foundation knowledge <a id="cs-foundation-knowledge-1"></a>
+
+* [4 Most Important Topics](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/README.md)
+  * [Computer System](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/computer-system.md)
+  * [Operation System](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/operation-system.md)
+  * [Computer Network](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/computer-network.md)
+  * [Algorithms & Data Structures](cs-foundation-knowledge-1/4-most-important-theorectical-cs-topics/algorithms-and-data-structures.md)
+* [Other Topics](cs-foundation-knowledge-1/other-theorectical-cs-topics/README.md)
+  * [Database Systems](cs-foundation-knowledge-1/other-theorectical-cs-topics/database-system.md)
+  * [Compilers and Interpreters](cs-foundation-knowledge-1/other-theorectical-cs-topics/complier.md)
+  * [Programmers' Mathematics](cs-foundation-knowledge-1/other-theorectical-cs-topics/programmers-mathematics.md)
 
 ## Mini courses
 
