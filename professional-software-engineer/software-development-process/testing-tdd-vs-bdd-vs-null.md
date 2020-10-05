@@ -7,9 +7,15 @@ description: >-
 
 # Testing - TDD vs BDD
 
-## TDD - Test-Driven Development
+## TDD - Test-Driven Development \| Short Intro
 
-**Core spirit: Write tests before writing code.**
+### **\[Core stakeholders in concern\]** 
+
+Programmers or say developers
+
+###  **\[Core spirit\]** 
+
+**Write tests before writing code.** 
 
 TDD is a **process to write code** through **a short and repeated cycle** called Red-green-refactor.
 
@@ -27,7 +33,11 @@ TDD is a **process to write code** through **a short and repeated cycle** called
 
 **3-2\) Run all tests** - Should be 100% pass\(i.e. green\) at this time point, to ensure 3-1 did not break anything completed in 2-1.
 
+### **\[Advantages of TDD\]**
 
+1\) Executable documentation
+
+During development, we often write documentation like a diary to give additional information about our code \(e.g what is the purpose of some code methods\) for future record-trace. With TDD we can savethe effort doing so because 
 
 
 
