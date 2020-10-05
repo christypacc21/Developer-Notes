@@ -49,20 +49,10 @@ description: under construction...
 #### Favorite Sci-fi Stories
 
 * "Westworld" - TV series by HBO
-* "The White Mountains" - Book
+* "The Tripods" series - Book
 * "The Hunger Games" series - Movies
-* "Ender Games" - Book
+* "Ender's Game" - Book
 * "Before I Fall" - Movie
-
-
-
-
-
-
-
-
-
-
 
 
 
