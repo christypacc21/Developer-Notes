@@ -35,13 +35,13 @@ TDD is a **process to write code** through **a short and repeated cycle** called
 
 ### **\[Advantages of TDD\]**
 
-**1\) Executable Documentation** - Save effort writing extra documentation
+**1\) Always up-to  Documentation** - Save effort writing extra documentation
 
 Tests in TDD become Executable Documentation. 
 
 During traditional development, we often write documentation like a diary to give additional information about our code \(e.g what is the purpose of some code methods\) for future record-trace. The problem is that developers often need extra effort to maintain the documentation because documentation will inevitably get out-dated once there is any update in the code. Documentation is not reliable if no one is actively maintaining it.
 
-With TDD we can solve this problem because the tests themselves become real-time documentation. 
+With TDD we can solve this problem because the tests themselves become real-time documentation. No documentation can provide information as up-to-date as the codebase itself \(the tests are a part of the codebase\). 
 
 
 
