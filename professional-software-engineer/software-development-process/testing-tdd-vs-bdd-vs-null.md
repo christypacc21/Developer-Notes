@@ -11,7 +11,7 @@ description: >-
 
 ### **\[Core stakeholders in concern\]** 
 
-Programmers or say developers
+Programmers \(or say, Developers\)
 
 ###  **\[Core spirit\]** 
 
@@ -19,13 +19,13 @@ Programmers or say developers
 
 TDD is a **process to write code** through **a short and repeated cycle** called Red-green-refactor.
 
-### \[Red\(Step1\) -&gt; Green\(Step2\) -&gt; Refactor\(Step3\)\]:
+### \[Execution\] : Red\(Step1\) -&gt; Green\(Step2\) -&gt; Refactor\(Step3\)
 
 **1-1\) Write tests** - List out the expected behaviors of code, in a format of test cases.
 
 **1-2\) Run all tests** - Should be100% fail \(i.e red\) because there is not yet any implementation code.
 
-**2-1\) Write the implementation code** - Make the code work \(i.e. Write code to fulfill the expected behaviors listed in step 1\)
+**2-1\) Write the implementation code** - Make the code work \(i.e. Write only enough code to fulfill the expected behaviors listed in step 1\)
 
 **2-2\) Run all tests** - Should be 100% pass\(i.e. green\) at this time point, to ensure code is doing the right things.
 
@@ -35,9 +35,13 @@ TDD is a **process to write code** through **a short and repeated cycle** called
 
 ### **\[Advantages of TDD\]**
 
-1\) Executable documentation
+**1\) Executable Documentation** - Save effort writing extra documentation
 
-During development, we often write documentation like a diary to give additional information about our code \(e.g what is the purpose of some code methods\) for future record-trace. With TDD we can savethe effort doing so because 
+Tests in TDD become Executable Documentation. 
+
+During traditional development, we often write documentation like a diary to give additional information about our code \(e.g what is the purpose of some code methods\) for future record-trace. The problem is that developers often need extra effort to maintain the documentation because documentation will inevitably get out-dated once there is any update in the code. Documentation is not reliable if no one is actively maintaining it.
+
+With TDD we can solve this problem because the tests themselves become real-time documentation. 
 
 
 
