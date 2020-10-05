@@ -38,7 +38,7 @@ description: under construction...
 ## Career Goal:
 
 * Solution Architect
-* There are few women leaders in technology. If I have the chance to get to a higher position in the future, I hope to contribute to narrow this gap.
+* There are few women leaders in technology. If I have the chance to get to a higher position in the future, I hope to contribute to narrowing this gap.
 
 
 
