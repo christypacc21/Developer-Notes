@@ -30,6 +30,10 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 \(under construction\)
 
+## \[How Python works and Python's characteristics\]
+
+\(under construction\)
+
 ## Recommended Resources \(and Learning Path\)
 
 ### \[If you are new to Python\]
