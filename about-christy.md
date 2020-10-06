@@ -27,7 +27,7 @@
 
 * Node.js + Express \(RESTFUL APIs\) + JavaScript / TypeScript + React \(& Redux\) / Template Engines & Ajax & JQuery
 * Python + Django
-* Testings using Mocha & Chai, Jest and Enzymes, Selenium
+* Testings - Mocha & Chai, Jest & Enzymes, Selenium
 * **Wanna learn when I have more time:** 
   * DevOps - Microservices, AWS, and CICD
   * Java backend development using Spring Boot
@@ -37,7 +37,7 @@
 ## Career Goal
 
 * Solution Architect
-* There are few woman leaders in tech. In the future, if I have the chance to get to a higher position, I hope to contribute to improving gender equality in technology.
+* There are so few women leaders in tech. In the future, if I have the chance to get to a higher position, I hope to contribute to improving gender equality in technology.
 
 ## Personal
 
