@@ -66,7 +66,7 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 ### \[If you want to apply Python\]
 
-#### 4\) Book & Udemy course - Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners \(2019\)
+#### 6\) Book & Udemy course - Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners \(2019\)
 
 ![](../../.gitbook/assets/screenshot-2020-10-06-at-1.04.42-pm.png)
 
@@ -74,7 +74,7 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 
 
-#### 5\) Book - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition \(2017\)
+#### 7\) Book - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition \(2017\)
 
 ![](../../.gitbook/assets/screenshot-2020-10-06-at-1.03.34-pm.png)
 
