@@ -62,19 +62,15 @@ You can develop at great speed without worrying something will be broken.
 
 ### 1\) Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript 2nd Edition \(2017\)
 
-![](../../../.gitbook/assets/screenshot-2020-10-06-at-2.45.03-am.png)
+[https://amzn.to/2GtntsJ](https://amzn.to/2GtntsJ)
 
-{% embed url="https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript-ebook/dp/B074HXXXLS/ref=sr\_1\_4?dchild=1&keywords=test-driven+development&qid=1601923138&s=digital-text&sr=1-4" %}
-
-### 
+![https://amzn.to/2GtntsJ](../../../.gitbook/assets/screenshot-2020-10-06-at-2.45.03-am.png)
 
 ### 2\) Test-Driven Java Development 1st Edition \(2015\)
 
+[https://amzn.to/3iBiwLw](https://amzn.to/3iBiwLw)
+
 ![](../../../.gitbook/assets/screenshot-2020-10-06-at-2.48.47-am.png)
-
-{% embed url="https://www.amazon.com/Test-Driven-Java-Development-Viktor-Farcic-ebook/dp/B00YSIM3SC/ref=sr\_1\_1?dchild=1&keywords=test-driven+development+java&qid=1601923630&s=digital-text&sr=1-1" %}
-
-
 
 
 
