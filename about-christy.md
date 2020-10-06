@@ -20,7 +20,7 @@ description: under construction...
 
 ### Programming Languages
 
-* JavaScript \(Development\)
+* JavaScript and TypeScript \(Development\)
 * Python \(Development and Scripting\)
 * Java \(Algorithm training\)
 * SQL
@@ -31,8 +31,11 @@ description: under construction...
 
 * Node.js + Express \(RESTFUL APIs\) + JavaScript / TypeScript + React \(& Redux\) / Template Engines & Ajax & JQuery
 * Python + Django
+* Testings using Mocha & Chai, Jest and Enzymes,  Selenium
 * **Wanna learn when I have more time:** 
+  * DevOps - Microservices, AWS, and CICD
   * Java development using Spring Boot
+  * Deep learning using PyTorch and OpenCV
   * Raspberry Pi and Arduino Prototyping
 
 ## Career Goal
