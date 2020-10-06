@@ -64,6 +64,19 @@
   * [MySQL \(DBMS\)](mini-courses/backend/mysql.md)
   * [Redis \(Caching Database\)](mini-courses/backend/redis.md)
   * [RESTFUL APIs \(Architectural Style\)](mini-courses/backend/restful-apis.md)
+* [\(under construction\)](mini-courses/under-construction/README.md)
+  * [System Design](mini-courses/under-construction/system-design/README.md)
+    * [Load Balancer](mini-courses/under-construction/system-design/load-balancer.md)
+    * [Caching](mini-courses/under-construction/system-design/caching.md)
+    * [CDN](mini-courses/under-construction/system-design/cdn.md)
+    * [DNS](mini-courses/under-construction/system-design/dns.md)
+    * [Proxies](mini-courses/under-construction/system-design/proxies.md)
+    * [Message Queues](mini-courses/under-construction/system-design/message-queues.md)
+    * [Sharding and Data Partitioning](mini-courses/under-construction/system-design/sharding-and-data-partitioning.md)
+    * [CAP Theorem](mini-courses/under-construction/system-design/cap-theorem.md)
+    * [Firewall](mini-courses/under-construction/system-design/firewall.md)
+    * [Microservices](mini-courses/under-construction/system-design/microservices.md)
+  * [What will happen after you enter a URI in the browser](mini-courses/under-construction/what-will-happen-after-you-enter-a-uri-in-the-browser.md)
 
 ## Experience share <a id="experience-share-1"></a>
 
