@@ -26,8 +26,6 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 \(under construction\)
 
-
-
 ## Recommended Resources \(and Learning Path\)
 
 ### \[If you are new to Python\]

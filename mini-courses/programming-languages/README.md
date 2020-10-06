@@ -7,8 +7,6 @@ description: >-
 
 # Programming Languages
 
-#### 2020-10-2
-
 #### When I started learning different programming languages, I thought of a question: 
 
 ### **Why there are so many programming languages out there? Is it possible to unify them all into just one programming language?** 
@@ -66,7 +64,7 @@ _Understanding these 2 pairs is enough for you to understand the syntax of a lan
 
 {% embed url="https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871" %}
 
-### 
+2020-10-2
 
 ### In the next chapters, we will start focusing on introducing different languages specifically.
 
