@@ -34,7 +34,7 @@ description: under construction...
 * Testings using Mocha & Chai, Jest and Enzymes,  Selenium
 * **Wanna learn when I have more time:** 
   * DevOps - Microservices, AWS, and CICD
-  * Java development using Spring Boot
+  * Java backend development using Spring Boot
   * Deep learning using PyTorch and OpenCV
   * Raspberry Pi and Arduino Prototyping
 
