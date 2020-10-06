@@ -46,13 +46,23 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 
 
-### \[If you know Python and want to upgrade your Python\]
+### \[\(Optional\) If you know Python and want to upgrade your Python\]
 
-#### 3\) Book - Fluent Python: Clear, Concise, and Effective Programming 1st Edition
+#### 3\) Book - Fluent Python: Clear, Concise, and Effective Programming 1st Edition \(2015\)
 
 ![](../../.gitbook/assets/screenshot-2020-10-06-at-12.44.47-pm.png)
 
 {% embed url="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008" %}
+
+#### 4\) Book - Python Cookbook: Recipes for Mastering Python 3 \(2013\)
+
+![https://www.amazon.in/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY](../../.gitbook/assets/screenshot-2020-10-06-at-1.12.08-pm.png)
+
+#### 5\) Book - Python 3 Object-Oriented Programming
+
+![](../../.gitbook/assets/screenshot-2020-10-06-at-1.16.30-pm%20%281%29.png)
+
+{% embed url="https://www.amazon.com/Python-3-Object-Oriented-Programming/dp/1849511268\#customerReviews" %}
 
 ### \[If you want to apply Python\]
 
@@ -70,5 +80,5 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 {% embed url="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr\_1\_4?dchild=1&keywords=python&qid=1601959618&s=books&sr=1-4" %}
 
-
+2020-10-6
 
