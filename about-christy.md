@@ -1,7 +1,3 @@
----
-description: under construction...
----
-
 # About Christy
 
 #### Current Location: Hong Kong[ 🇭🇰](https://emojipedia.org/flag-hong-kong-sar-china/)
