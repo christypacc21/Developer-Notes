@@ -64,9 +64,7 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 
 ### 4\) \[Playground for writing code\] Leetcode 
 
-#### Where I practice writing algorithms and data structures.
-
-{% embed url="https://leetcode.com/" %}
+{% embed url="https://leetcode.com/" caption="Where I practice writing algorithms and data structures." %}
 
 
 
