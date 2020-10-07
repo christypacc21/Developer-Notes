@@ -11,7 +11,7 @@
     * [TDD](professional-software-engineer/software-development-process/testing/testing-tdd-vs-bdd-vs-null.md)
     * [BDD](professional-software-engineer/software-development-process/testing/bdd.md)
   * [Different Roles / Stakeholders](professional-software-engineer/software-development-process/different-roles-stakeholders.md)
-  * [Deployment - manual vs automated\(Devops CICD\)](professional-software-engineer/software-development-process/deployment-manual-vs-automated-devops-cicd.md)
+  * [Deployment - Manually vs Automated \(DevOps CICD\)](professional-software-engineer/software-development-process/deployment-manual-vs-automated-devops-cicd.md)
   * [The Myth of TeamSize & Efficiency](professional-software-engineer/software-development-process/the-myth-of-teamsize-and-efficiency.md)
 * [Writing clean code](professional-software-engineer/writing-clean-code/README.md)
   * [Code Architecture](professional-software-engineer/writing-clean-code/code-architecture/README.md)
