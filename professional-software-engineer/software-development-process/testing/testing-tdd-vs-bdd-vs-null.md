@@ -6,17 +6,19 @@ description: Precise Introduction of Test-Driven Development
 
 **TDD can be a book's content. This passage is just a precise introduction for you to understand TDD's core. If you want to understand it deeper, the best way is still referring to authoritative industry resources \(eg classics books\), plus practicing in real projects with our own hands. Good luck :\)**
 
-### **\[Core stakeholders in concern\]** 
+## **\[Core stakeholders in concern\]** 
 
 Programmers \(or say, Developers\)
 
-### **\[Core spirit\]** 
+## **\[Core spirit\]** 
 
 **Write tests before writing code.** 
 
 TDD is a **process to write code** through **a short and repeated cycle** called Red-green-refactor.
 
-### \[Execution\] : Red\(Step1\) -&gt; Green\(Step2\) -&gt; Refactor\(Step3\)
+## \[Execution\] 
+
+### **\[**Step1\] Red → \[Step2\] Green → \[Step3\] Refactor
 
 **1-1\) Write tests** - List out the expected behaviors of code, in a format of test cases.
 
@@ -32,9 +34,9 @@ TDD is a **process to write code** through **a short and repeated cycle** called
 
 **=&gt; TDD is implemented by repeating this cycle until the development of the application is done and ready for deployment.**
 
-### \*\*\*\*
+\*\*\*\*
 
-### **\[Goals and Advantages of TDD\]**
+## **\[Goals and Advantages of TDD\]**
 
 **\*\*\* Note that a prerequisite of maximizing TDD's power is high code coverage. Ideally 100% code coverage if possible.**
 
@@ -57,6 +59,18 @@ If you do 100% code coverage. Every time after you add some code, you run the te
 **4\) Increase Development Speed**
 
 You can develop at great speed without worrying something will be broken.
+
+
+
+## \[Ending Notes\]
+
+I have tried TDD in development. The experience is refreshing and I frankly like the spirit promoted by TDD. 
+
+Of course, there are some restrictions of TDD that if the team has no experience with it, 
+
+I believe in the future, with more development teams trying TDD and having more experiences on it, TDD will become the main trend or even a must for any development teams that want to develop quality software in a tight deadline.
+
+
 
 ## Recommended Quality Resources:
 
