@@ -56,7 +56,7 @@ I was actually pretty amazed by how simple the technique Apple adopts to make an
 
 ## \[Caution ⚠️⚠️⚠️\]
 
-The most secure and legitimate way to fix your iPhone is by always paying Apple. I have a legitimate reason for not choosing Apple. For example, it is an old iPhone so the failing cost is relatively low plus I was curious to inspect my iPhone's composition. 
+The most secure and legitimate way to fix your iPhone is always by paying Apple. I have a legitimate reason for not choosing Apple. For example, it is an old iPhone so the failing cost is relatively low plus I was curious to inspect my iPhone's composition. 
 
 But in your case, maybe paying Apple is the best solution \(e.g your iPhone is still protected by Apple care\). Apple might know if you had your iPhone repaired in a non-Apple place so not repairing your iPhone in Apple may subject to higher repair costs or Apple may reject to repair it in the future.
 
