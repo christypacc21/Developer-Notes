@@ -7,8 +7,6 @@ description: >-
 
 # Agile vs Waterfall
 
-2020-10-4
-
 Waterfall and Agile are actually two choices of product development approach \(or more accurately, product development mindset\). Broadly saying, apart from the software development process, they can also be used in any other scenes that involve a product's development. 
 
 #### In this article, I will only focus on their usage in software development scenarios.
@@ -16,6 +14,8 @@ Waterfall and Agile are actually two choices of product development approach \(o
 **In software development, Agile and Waterfall are actually not two choices.** Agile is actually a new improved way appearing aiming to replace Waterfall and tackle the old way's deficiencies. It is because Waterfall lacks flexibility and no longer fits the current digital era's rapidly changing environment.  
 
 **Bear in mind that Agile and Waterfall are actually sets of values and principles \("mindsets", in a simple word\).** They are more like "interfaces" in Java. And then you, the team, decides how to "implement" either one of them into your project, according to your own project's situations. After all the ultimate goal is to make the software development process smooth and effective.
+
+
 
 ## Waterfall
 
@@ -35,7 +35,9 @@ Risky if at the end the product is not what the client wants, then the 20 years 
 
 When a product requirement is static and super clearly concrete. The team and the customer know clearly and concretely what they will be making and how the product will be like at the end. I cannot think of a concrete software development scenario that Waterfall works better than Agile. Please tell me if you can think of one :p Thanks:p
 
-## Agile
+
+
+## Agile \(Often implemented with the "Scrum" framework\)
 
 {% embed url="https://www.youtube.com/watch?v=Z9QbYZh1YXY" %}
 
@@ -43,9 +45,11 @@ When a product requirement is static and super clearly concrete. The team and th
 
 #### \[Core spirit\] 
 
-Agile is a set of core principles and values. Continuous delivery. Fast iteration. Making the development process more like many loops rather than a single waterfall.
+Agile is a set of core principles and values. Continuous delivery. Fast iteration. Making the development process more like many loops rather than a single waterfall. 
 
 ![From https://www.copebit.ch/waterfall-or-agile-measuring-up-methodologies/](../../.gitbook/assets/screenshot-2020-10-04-at-8.11.23-pm.png)
+
+Scrum is an executable framework that implements the principles of Agile.
 
 #### **\[Pros\]** 
 
@@ -63,17 +67,23 @@ The team has to spend extra effort to keep adjusting the way they adopt Agile un
 
 So far I have never worked in a commercial software development project that is not adopting Agile. From my observations, I guess it has become the trend now. 
 
-### My Agile experiences:
+
+
+## My Agile experiences:
 
 will add more content...
 
-### List of great Agile Tools
+
+
+## List of great Agile Tools
 
 **\[Kanban board tools\]**
 
 **Trello** - Free Kanban board tool. Apart from Agile sprinting, it is also handy for organizing personal schedules and taking notes.
 
 **Jira** - A tool that includes the kanban board functions similar to Trello's but it is not free and much more powerful. It provides a full set of tools for you to work with Agile. You are very likely using it in a large project in a big team.
+
+
 
 ## Additional readings: 
 
@@ -85,5 +95,13 @@ will add more content...
 
 {% embed url="https://techbeacon.com/app-dev-testing/agility-beyond-history-legacy-agile-development" %}
 
+#### 3\) Agile Vs Scrum
 
+{% embed url="https://www.guru99.com/agile-vs-scrum.html" %}
+
+**4\) Scrum**
+
+{% embed url="https://www.scrum.org/resources/what-is-scrum" %}
+
+\*\*\*\*
 
