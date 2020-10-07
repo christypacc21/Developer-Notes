@@ -52,7 +52,7 @@ Git GUI makes working with Git easier. If you are not using it, you have to use 
 
 #### + GitHub \(if it is a small or personal project\) / BitBucket \(if it is a big commercial project\)
 
-#### + SourceTree \(Note: I use Mac Book Pro. I am not sure if it is still prettier in other Operation Systems\)
+#### + SourceTree \(Note: I use Mac Book Pro. I am not sure if it is still prettier in other operation systems\)
 
 
 
