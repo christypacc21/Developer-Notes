@@ -87,9 +87,3 @@ will add more content...
 
 
 
-## In the next section, we will take a look at testing methodologies that are most widely used in the industry. 
-
-#### Bear in mind the word TDD, Test-Driven Development. 
-
-#### It is a super important term in modern software development. It works well with Agile and I personally think it is the best \(if not the only\) way to be adopted by developers while developing software, in order to ensure the application is doing the right things and doing the things right. Every developer should know TDD. Let's go~
-
