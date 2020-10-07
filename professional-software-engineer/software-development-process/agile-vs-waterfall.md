@@ -87,7 +87,7 @@ will add more content...
 
 
 
-## In the next chapter, we will take a look at testing methodologies that are most widely used in the industry. 
+## In the next section, we will take a look at testing methodologies that are most widely used in the industry. 
 
 #### Bear in mind the word TDD, Test-Driven Development. 
 

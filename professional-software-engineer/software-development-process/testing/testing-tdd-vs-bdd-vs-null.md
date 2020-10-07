@@ -4,7 +4,7 @@ description: Precise Introduction of Test-Driven Development
 
 # TDD
 
-**TDD can be a book's content. This passage is just a precise introduction for you to understand TDD's core. If you want to understand it deeper, the best way is still referring to authoritative industry resources \(eg classics books\), plus practicing in real projects with our own hands. Good luck :\)**
+**TDD can be a book's content. This passage is just a precise introduction for you to understand TDD's core. If you want to understand it deeper, the best way is still referring to authoritative industry resources \(eg classic books\), plus practicing in real projects with our own hands. Good luck :\)**
 
 ## **\[Core stakeholders in concern\]** 
 
