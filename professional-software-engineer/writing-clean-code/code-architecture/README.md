@@ -6,9 +6,7 @@ description: >-
 
 # Code Architecture
 
-Try to learn by implementing them in code.
 
-Not all 
 
 
 

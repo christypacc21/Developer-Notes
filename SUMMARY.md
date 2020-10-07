@@ -21,6 +21,7 @@
     * [23 Design Patterns by GoF](professional-software-engineer/writing-clean-code/code-architecture/23-design-patterns-by-gof.md)
   * [Coding style](professional-software-engineer/writing-clean-code/coding-style.md)
   * [Tools to make things easier](professional-software-engineer/writing-clean-code/tools-to-make-things-easier.md)
+  * [Signs of smelly code](professional-software-engineer/writing-clean-code/signs-of-smelly-code.md)
 * [Documentation](professional-software-engineer/documentation-and-knowledge-transfer.md)
 * [Version Control](professional-software-engineer/version-control-git/README.md)
   * [Git](professional-software-engineer/version-control-git/git.md)

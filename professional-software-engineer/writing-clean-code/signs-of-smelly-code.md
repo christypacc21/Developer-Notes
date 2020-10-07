@@ -1,0 +1,2 @@
+# Signs of smelly code
+
