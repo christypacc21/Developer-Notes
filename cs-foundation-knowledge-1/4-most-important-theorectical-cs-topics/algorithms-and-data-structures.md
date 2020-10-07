@@ -40,13 +40,13 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 
 ### 1\) \[Book for the foundation\] Grokking Algorithms: An illustrated guide for programmers and other curious people [\(1st Edition\)](https://amzn.to/36He5fY)
 
-![For absolute algorithm beginners - to grap a big picture of what algorithms and data structures are. ](../../.gitbook/assets/screenshot-2020-10-07-at-5.25.22-pm.png)
+![\(Python\) For absolute algorithm beginners - to grap a big picture of what algorithms and data structures are. ](../../.gitbook/assets/screenshot-2020-10-07-at-5.25.22-pm.png)
 
 
 
 ### 2\) \[Book for the foundation\] Algorithms [\(4th Edition\)](https://amzn.to/2SAzxL2)
 
-![This is my algorithms and data structures reference book. In detail.](../../.gitbook/assets/screenshot-2020-10-07-at-4.43.36-pm.png)
+![\(Java\) This is my algorithms and data structures reference book. In detail.](../../.gitbook/assets/screenshot-2020-10-07-at-4.43.36-pm.png)
 
 #### This book is the reference book of the following two courses by Princeton University. You can also go through them if you don't like reading books solely.
 
@@ -58,13 +58,13 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 
 ### 3\) \[Book for Interviews\] Cracking the Coding Interview: 189 Programming Questions and Solutions [\(6th Edition\)](https://amzn.to/3np5apd)
 
-![I went through this book to understand coding interviews.](../../.gitbook/assets/screenshot-2020-10-07-at-5.21.33-pm.png)
+![\(Java\) I went through this book to understand coding interviews.](../../.gitbook/assets/screenshot-2020-10-07-at-5.21.33-pm.png)
 
 ### 
 
 ### 4\) \[Playground for writing code\] Leetcode 
 
-{% embed url="https://leetcode.com/" caption="Where I practice writing algorithms and data structures." %}
+{% embed url="https://leetcode.com/" caption="\(Any languages\) Where I practice writing algorithms and data structures." %}
 
 
 
