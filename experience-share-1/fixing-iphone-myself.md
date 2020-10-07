@@ -2,7 +2,7 @@
 description: The camera of my iPhone was broken recently. The story about fixing it myself.
 ---
 
-# Fixing my own iPhone camera
+# Fixing my own iPhone
 
 ## \[Reasons for fixing it myself\]
 
