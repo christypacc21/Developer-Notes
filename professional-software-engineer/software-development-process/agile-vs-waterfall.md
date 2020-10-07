@@ -37,7 +37,7 @@ When a product requirement is static and super clearly concrete. The team and th
 
 
 
-## Agile \(Often implemented with the "Scrum" framework\)
+## Agile \(Often implemented by using the "Scrum" framework\)
 
 {% embed url="https://www.youtube.com/watch?v=Z9QbYZh1YXY" %}
 
