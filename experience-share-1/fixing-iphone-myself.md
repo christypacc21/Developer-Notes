@@ -36,25 +36,25 @@ So with the new Apple frontend camera part, a set of tools, a tutorial video, an
 
 #### \[3 Succeeded\]
 
-It was supposed to finish in 15 minutes. I took 45 minutes to make it. It needed a certain level of your hands' flexibility but glad that I succeeded. Maybe one day if I got unemployed, apart from being a Uber driver, I can also repair iPhone.😹😹😹 Joking.
+It was supposed to finish in 15 minutes. I took 45 minutes to make it. It needed a certain level of your hands' flexibility but glad that I succeeded. Maybe one day if I got unemployed, apart from being a Uber driver, I can also repair iPhones.😹😹😹 Joking.
 
 ## \[Tips\]
 
-#### \[Screws\]
+#### \[Screws 🔩🔩🔩\]
 
-Since the screws are tiny, remember to keep the screws in a safe and stable place so you won't lose it PLUS place them in an order that you could know "which one to put back to which hole" when you are assembling back your iPhone.
+Since the screws are tiny, remember to keep the screws in a safe and stable place so you won't lose them PLUS place them in an order that you could know "which one to put back to which hole" when you are assembling back your iPhone.
 
-#### \[Water-resistant\] 
+#### \[Water-resistant 💦💦💦\] 
 
 ![](../.gitbook/assets/screenshot-2020-10-07-at-12.49.20-pm%20%281%29.png)
 
-If your iPhone is a water-resistant version, remember to choose a gadget package that includes the above water-resistant plastic \(or buy it separately\). It is used to stick to the edges of your iPhone when you finish changing the camera and ready to resemble back the phone. 
+If your iPhone is a water-resistant version, remember to choose a gadget package that includes the above water-resistant plastic \(or buy it separately somewhere else\). It is used to stick to the edges of your iPhone when you finish changing the camera and ready to resemble back your iPhone. 
 
 I was actually pretty amazed by how simple the technique Apple adopts to make an iPhone water-resistant😹😹😹.
 
 
 
-## \[Caution\]
+## \[Caution ⚠️⚠️⚠️\]
 
 The most secure and legitimate way to fix your iPhone is by always paying Apple. I have a legitimate reason for not choosing Apple. For example, it is an old iPhone so the failing cost is relatively low plus I was curious to inspect my iPhone's composition. 
 
