@@ -32,7 +32,11 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 
 
 
-## \[Resources\]
+## \[Resources and learning path\]
+
+### NOT for readers who aim for ACM competitions 👉👈
+
+
 
 ### 1\) \[Book for the foundation\] Grokking Algorithms: An illustrated guide for programmers and other curious people [\(1st Edition\)](https://amzn.to/36He5fY)
 
@@ -44,7 +48,7 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 
 ![This is my algorithms and data structures reference book. In detail.](../../.gitbook/assets/screenshot-2020-10-07-at-4.43.36-pm.png)
 
-### This book is the reference book of the following two courses by Princeton University. You can also go through them if you don't like reading books solely.
+#### This book is the reference book of the following two courses by Princeton University. You can also go through them if you don't like reading books solely.
 
 {% embed url="https://www.coursera.org/learn/algorithms-part1" %}
 
@@ -55,6 +59,8 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 ### 3\) \[Book for Interviews\] Cracking the Coding Interview: 189 Programming Questions and Solutions [\(6th Edition\)](https://amzn.to/3np5apd)
 
 ![I went through this book to understand coding interviews.](../../.gitbook/assets/screenshot-2020-10-07-at-5.21.33-pm.png)
+
+### 
 
 ### 4\) \[Playground for writing code\] Leetcode 
 
