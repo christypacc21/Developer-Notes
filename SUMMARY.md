@@ -8,6 +8,7 @@
 * [Development Process](professional-software-engineer/software-development-process/README.md)
   * [Agile vs Waterfall](professional-software-engineer/software-development-process/agile-vs-waterfall.md)
   * [Testing](professional-software-engineer/software-development-process/testing/README.md)
+    * [Testing Techniques Overview](professional-software-engineer/software-development-process/testing/testing-techniques-overview.md)
     * [TDD](professional-software-engineer/software-development-process/testing/testing-tdd-vs-bdd-vs-null.md)
     * [BDD](professional-software-engineer/software-development-process/testing/bdd.md)
   * [Different Roles / Stakeholders](professional-software-engineer/software-development-process/different-roles-stakeholders.md)
