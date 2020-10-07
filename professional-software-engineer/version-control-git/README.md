@@ -42,7 +42,7 @@ Git GUI makes working with Git easier. If you are not using it, you have to use 
 
 ### 4\) [SourceTree](https://www.sourcetreeapp.com/) \(personally prefer because of its neater UI\)
 
-### 5\) [Git GUI](https://git-scm.com/downloads/guis)
+### 5\) [GitHub Desktop](https://desktop.github.com/)
 
 
 
