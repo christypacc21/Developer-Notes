@@ -1,5 +1,7 @@
 ---
-description: Precise Introduction of Test-Driven Development
+description: >-
+  Precise Introduction of Test-Driven Development | Every developer should know
+  TDD.
 ---
 
 # TDD
