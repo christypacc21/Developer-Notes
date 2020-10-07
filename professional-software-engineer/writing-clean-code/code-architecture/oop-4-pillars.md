@@ -4,9 +4,7 @@ description: Object-Oriented Programming brief introduction.
 
 # OOP 4 Pillars
 
-#### If you use scripting languages like Python and Javascript, instead of OOP languages like Java and C++, the concepts may be quite abstract for you to understand. It is fine. 
-
-#### It is fine to just have a broad view of these concepts.
+#### If you use scripting languages like Python and JavaScript, instead of OOP languages like Java and C++, the concepts may be quite abstract for you to understand deeply. It is fine, just try to understand the broad view first.
 
 ## \[Concept\] 
 
