@@ -6,13 +6,13 @@ description: The camera of my iPhone was broken recently. The story about fixing
 
 ## \[Reasons for fixing it myself\]
 
-The front camera of my iPhone was broken recently. The front camera could still be turned on but it took horrible green blurred pictures that turned pretty ladies into daunting green creatures_🤢🤢🤢_. I had to handle this problem.
+The front camera of my iPhone 7 Plus was broken recently. The front camera could still be turned on but it took horrible green blurred pictures that turned pretty ladies into daunting green creatures_🤢🤢🤢_. I had to handle this problem.
 
 However, I did not want to spend 2-3000 HKD in Apple and have my phone kept there for a week. 
 
-I also did not want to hand in my phone to random little shops. Some of them offered a reasonable price and you can get your iPhone in an hour.  But after researching online, I found that there is a risk that your iPhone gadget would be stolen or changed away.
+I also did not want to hand in my phone to random little shops. Some of them offered a reasonable price and you can get your iPhone in an hour.  But after researching online, I found that there was a risk that your iPhone gadget would be stolen or changed away.
 
-Since it is a relatively old iPhone, I was thinking of buying a new one originally. So an idea came to my mind, **why don't I just fix it MYSELF**? Also, I am a developer and somehow a Geek, I always hope to see what is inside my iPhone so it would be the perfect time to do so. If it failed, then I go to buy a new one.
+Since it is a relatively old iPhone, I was thinking of buying a new one originally. So an idea came to my mind, **why don't I just fix it MYSELF**? Also, I am a developer and somehow a Geek, I always hope to see what is inside my iPhone so it would be the perfect time to do so. If I fail, then I go to buy a new one.
 
 ## \[How did I do so\]
 
@@ -50,7 +50,7 @@ Since the screws are tiny, remember to keep the screws in a safe and stable plac
 
 If your iPhone is a water-resistant version, remember to choose a gadget package that includes the above water-resistant plastic \(or buy it separately somewhere else\). It is used to stick to the edges of your iPhone when you finish changing the camera and ready to resemble back your iPhone. 
 
-I was actually pretty amazed by how simple the technique Apple adopts to make an iPhone water-resistant😹😹😹.
+I was actually pretty amazed by the simplicity of the technique Apple adopts to make an iPhone water-resistant 😹😹😹.
 
 
 

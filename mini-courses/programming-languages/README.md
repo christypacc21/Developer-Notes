@@ -13,7 +13,7 @@ description: >-
 
 This question is quite complicated but in short, I think the answer is it is hard and unnecessary in the current era \(not sure in the future. Maybe one day in the future, supercomputers appear and thus computation power is no longer an issue worth concerning. But at least in the current era\): different programming languages serve different purposes, and some conflicts exist between fulfilling one requirement versus another so they have to separate into different languages. 
 
-### We can view this question in a few perspectives:
+## We can view this question in a few perspectives:
 
 ### 1\) Closer to machine\(i.e. computers\) VS Closer to human 
 
@@ -52,19 +52,31 @@ The above graph from this blog [https://android.jlelse.eu/magic-lies-here-static
 
 _Understanding these 2 pairs is enough for you to understand the syntax of a language._
 
-**More advanced and detailed separation of types \(just in case you are curious\) are:**
+\_\_
+
+## \[Additional readings\]
+
+**1\) More advanced and detailed separation of types \(just in case you are curious\):**
 
 ![](../../.gitbook/assets/screenshot-2020-10-03-at-12.42.51-am.png)
 
 
 
-**Notes:** For a deeper knowledge of how the computers understand programming languages, from an academic perspective, you can refer to this classical book \(Not recommended for beginners who just want to start coding right away\): **&lt;Structure and Interpretation of Computer Programs&gt; \(SICP in short\)**
+**2\) An article - What are Procedural, Event-Driven and Object Orientated Programming**
+
+{% embed url="https://www.mooict.com/what-are-procedural-event-driven-and-object-orientated-programming/" %}
+
+\*\*\*\*
+
+**3\) Book -** [**Structure and Interpretation of Computer Programs \(2th edition\)** ](https://amzn.to/2GKW6tO)\*\*\*\*
+
+**Notes:** For a deeper knowledge of how the computers understand programming languages, from an academic perspective, you can refer to this classical book \(Not recommended for beginners who just want to start coding right away\): 
 
 ![](../../.gitbook/assets/screenshot-2020-10-04-at-2.50.47-am%20%281%29.png)
 
-{% embed url="https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871" %}
 
-2020-10-2
 
-### In the next chapters, we will start focusing on introducing different languages specifically.
+
+
+## Starting from the next chapter, we focus on introducing different languages specifically.
 
