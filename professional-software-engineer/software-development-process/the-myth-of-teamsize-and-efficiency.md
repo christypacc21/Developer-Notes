@@ -7,7 +7,7 @@ description: >-
 
 # The Myth of TeamSize & Efficiency
 
-There are some limitations to breaking down tasks. Some tasks simply cannot be separated into smaller units. For example, pregnancy. A pregnant lady takes 10 months to finish a pregnancy. Supposedly the pregnancy time could be reduced to just 1 month if 10 ladies can pregnant together. But in reality, it is not possible.
+There are some limitations to breaking down tasks. Some tasks simply cannot be separated into smaller units. For example, pregnancy. A pregnant lady takes 10 months to finish a pregnancy. Theoretically \(in Math\), the pregnancy time could be reduced to just 1 month if 10 ladies can pregnant together. But in reality, it is not possible.
 
 ### Here is a famous book inspecting the Myth, just read it if you feel interested. 
 
