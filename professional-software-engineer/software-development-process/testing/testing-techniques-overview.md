@@ -6,7 +6,7 @@ description: Common Testing Techniques adopted by developers
 
 Testings are for ensuring software quality, which means checking if the product is doing the right things and doing the things right. It can be a super broad field. In a large project, a whole team of Quality Assurance Engineers \(QAs in short\) could be included to align with software developers to safeguard software quality. 
 
-The testing techniques in QAs' field are quite different from the developers' field. They usually have different separations of concern. 
+The testing techniques adopted in the QAs' field are quite different from the developers' field. QAs and developers usually have different separations of concern. 
 
 This article is mainly for developers and will focus on the technique that we, developers, should know to ensure software quality.
 
