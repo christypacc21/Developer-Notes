@@ -22,7 +22,7 @@ Then I searched on amazon, a quality original Apple front camera part from a pop
 
 [https://amzn.to/3nrSOgb](https://amzn.to/3nrSOgb)
 
-![The shop I was ordering from no longer sells this product so I lost the link, here is a sample of what I bought. ](../.gitbook/assets/screenshot-2020-10-07-at-12.23.24-pm.png)
+![The shop I ordered the package from is no longer selling this product so I lose the link, here is a sample of what I bought. ](../.gitbook/assets/screenshot-2020-10-07-at-12.23.24-pm.png)
 
 #### 
 
