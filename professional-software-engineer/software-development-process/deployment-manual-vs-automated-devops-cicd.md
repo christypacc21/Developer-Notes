@@ -7,11 +7,9 @@ description: >-
 
 # Deployment - Manually vs Automated \(DevOps CICD\)
 
-## under construction
+## under construction...
 
-## \[List of related terms\]
+#### \[List of related terms\]
 
-...
-
-
+under construction...
 
