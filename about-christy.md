@@ -27,6 +27,7 @@
 
 * Node.js + Express \(RESTFUL APIs\) + JavaScript / TypeScript + React \(& Redux\) / Template Engines & Ajax & JQuery
 * Python + Django
+* Databases - MySQL, MongoDB, Redis
 * Testings - Mocha & Chai, Jest & Enzymes, Selenium
 * Operation systems - MacOS \(I personally use Mac Book Pro\), Windows, Linux \(newbie\)
 * **Wanna learn when I have more time:** 
