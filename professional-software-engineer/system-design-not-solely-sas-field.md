@@ -38,3 +38,7 @@ The ability to think in a bigger picture can let you go further, even if you are
 
 ![\[Advanced\] A very classical big book in the industry](../.gitbook/assets/screenshot-2020-10-06-at-3.24.49-pm.png)
 
+
+
+
+

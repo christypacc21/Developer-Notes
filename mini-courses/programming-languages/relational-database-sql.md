@@ -1,5 +1,5 @@
 ---
-description: A language that communicates with RDBMSs
+description: A language that communicates with RDBMSs to manipulate data
 ---
 
 # Relational database - SQL
