@@ -24,11 +24,11 @@
   * [Signs of terrible code](professional-software-engineer/writing-clean-code/signs-of-smelly-code.md)
 * [Version Control](professional-software-engineer/version-control-git/README.md)
   * [Working in a team using Git](professional-software-engineer/version-control-git/working-in-a-team.md)
+* [System Design](professional-software-engineer/system-design-not-solely-sas-field.md)
 * [Documentation](professional-software-engineer/documentation-and-knowledge-transfer.md)
 * [What tech stack to choose](professional-software-engineer/what-tech-stack-to-choose/README.md)
   * [List of Tech Fields](professional-software-engineer/what-tech-stack-to-choose/list-of-tech-fields.md)
   * [List of General Dev Tools](professional-software-engineer/what-tech-stack-to-choose/untitled-1.md)
-* [System Design](professional-software-engineer/system-design-not-solely-sas-field.md)
 
 ## CS foundation knowledge <a id="cs-foundation-knowledge-1"></a>
 
