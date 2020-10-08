@@ -22,13 +22,12 @@
   * [Coding style](professional-software-engineer/writing-clean-code/coding-style.md)
   * [Tools to make things easier](professional-software-engineer/writing-clean-code/tools-to-make-things-easier.md)
   * [Signs of terrible code](professional-software-engineer/writing-clean-code/signs-of-smelly-code.md)
-* [Documentation](professional-software-engineer/documentation-and-knowledge-transfer.md)
 * [Version Control](professional-software-engineer/version-control-git/README.md)
   * [Working in a team using Git](professional-software-engineer/version-control-git/working-in-a-team.md)
+* [Documentation](professional-software-engineer/documentation-and-knowledge-transfer.md)
 * [What tech stack to choose](professional-software-engineer/what-tech-stack-to-choose/README.md)
   * [List of Tech Fields](professional-software-engineer/what-tech-stack-to-choose/list-of-tech-fields.md)
   * [List of General Dev Tools](professional-software-engineer/what-tech-stack-to-choose/untitled-1.md)
-* [Picking up a tech stack](professional-software-engineer/how-to-pick-up-a-tech-stack-quickily.md)
 * [System Design](professional-software-engineer/system-design-not-solely-sas-field.md)
 
 ## CS foundation knowledge <a id="cs-foundation-knowledge-1"></a>
@@ -89,6 +88,7 @@
 * [Get the right book\(s\) to read](experience-share-1/get-the-right-book-s-to-read.md)
 * [Fixing my own iPhone](experience-share-1/fixing-iphone-myself.md)
 * [\(under construction\)](experience-share-1/under-construction/README.md)
+  * [Picking up a tech stack](experience-share-1/under-construction/how-to-pick-up-a-tech-stack-quickily.md)
   * [Code quality in a tight deadline](experience-share-1/under-construction/code-quality-in-a-tight-deadline.md)
   * [How to maintain body shape during quarantine time](experience-share-1/under-construction/how-to-maintain-body-shape-during-quarantine-time.md)
   * [Effective communication](experience-share-1/under-construction/effective-communication.md)
