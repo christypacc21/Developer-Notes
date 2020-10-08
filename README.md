@@ -16,7 +16,7 @@ Since I am also still learning, please feel free to correct me \(by messages or 
 
 \(The Blog is still under construction, I will keep filling the holes\)
 
-Blog Link : [https://christypacc21.gitbook.io/developer-notes/](https://christypacc21.gitbook.io/developer-notes/)
+Blog Link : [https://christypacc21.gitbook.io/developer-notes/about-christy](https://christypacc21.gitbook.io/developer-notes/about-christy)
 
 GitHub : [https://github.com/christypacc21](https://github.com/christypacc21)
 
