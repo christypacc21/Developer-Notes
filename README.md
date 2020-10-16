@@ -1,7 +1,7 @@
 ---
 description: >-
-  The things you need to know if you are a progressive developer without a CS
-  background.
+  The things you need to know if you are a progressive software engineer without
+  a CS background.
 ---
 
 # Introduction
