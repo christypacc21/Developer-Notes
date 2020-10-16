@@ -18,9 +18,9 @@ For example, knowing the tools needed in the environment and the syntax, to make
 
 #### 
 
-## 2\) Knowing HOW it works theoretically. 
+## 2\) Knowing HOW IT WORKS theoretically. 
 
-For example, how MySQL searching works, B+ Tree, search engine InnoDB, why a query takes 1ms while another takes 100ms. Knowing the theory behind can let you understand MySQL better, thus allowing you to utilize MySQL better to achieve better database performance and security.
+For example, how MySQL searching works, B+ Tree, storage engine InnoDB, why a query takes 1ms while another takes 100ms. Knowing the theory behind can let you understand MySQL better, thus allowing you to utilize MySQL better to achieve better database performance and security.
 
 ### Resource list:
 
