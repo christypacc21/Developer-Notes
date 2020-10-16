@@ -2,7 +2,7 @@
 
 #### Current Location: Hong Kong[ 🇭🇰](https://emojipedia.org/flag-hong-kong-sar-china/)
 
-#### \(Just in case your care\) 1997 \| Capricorn \| INTJ \| 172cm
+#### \(Just in case your care\) 1997 \| INTJ \| 172cm
 
 #### Bachelor's Degree: CUHK BBA in Professional Accountancy, 2018
 
@@ -27,14 +27,15 @@
 
 * Node.js + Express \(RESTFUL APIs\) + JavaScript / TypeScript + React \(& Redux\) / Template Engines & Ajax & JQuery
 * Python + Django
+* Java + Spring Boot
 * Databases - MySQL, MongoDB, Redis
 * Testings - Mocha & Chai, Jest & Enzymes, Selenium
 * Operation systems - MacOS \(I personally use Mac Book Pro\), Windows, Linux \(newbie\)
 * **Wanna learn when I have more time:** 
   * DevOps - Microservices, AWS, and CICD
-  * Java backend development using Spring Boot
   * Deep learning using PyTorch and OpenCV
   * Raspberry Pi and Arduino Prototyping
+  * Hadoop and Spark
 
 ## Career Goal
 
