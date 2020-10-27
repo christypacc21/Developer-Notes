@@ -26,7 +26,7 @@
 
 * Node.js + Express \(RESTFUL APIs\) + JavaScript / TypeScript + React \(& Redux\) / Template Engines & Ajax & JQuery
 * Python + Django
-* Java + Spring Boot \(Newbie, not going to put much time on SpringBoot since I found it relatively bulky for what I generally want to build\)
+* Java + Spring Boot \(Newbie, not going to put much time on Spring Boot since I found it too bulky for what I generally want to build\)
 * Databases - MySQL, MongoDB, Redis
 * Testings - Mocha & Chai, Jest & Enzymes, Selenium
 * Operation systems - MacOS \(I personally use Mac Book Pro\), Windows, Linux \(Newbie\)
