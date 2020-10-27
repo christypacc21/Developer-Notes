@@ -1,5 +1,5 @@
 ---
-description: (under construction...)
+description: One of the most promising and beginner-friendly languages nowadays
 ---
 
 # Python

@@ -4,7 +4,7 @@ description: A language that communicates with RDBMSs to manipulate data
 
 # Relational database - SQL
 
-**SQL is a Structured Query Language**. Pronounced either "ess-que-el" or "se-quel". 
+**SQL is a Structured Query Language**. Pronounced either "ess-cue-el" or "se-quel". 
 
 SQL is **used to communicate with a relational database management system** \("RDBMS" in short\) for managing data stored in the databases \(for example, MySQL or PostgresSQL\). It is widely used in **software development** \(often serves as a data CRUD assistant in RESTful APIs\) and **data analysis**.
 
