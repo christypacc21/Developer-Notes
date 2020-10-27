@@ -4,10 +4,6 @@ description: An introduction of common roles included in a software development 
 
 # Different Roles / Stakeholders
 
-under construction...
-
-
-
 Sales - negotiate with the client and get the job
 
 Project manager - manage the money and do cost management

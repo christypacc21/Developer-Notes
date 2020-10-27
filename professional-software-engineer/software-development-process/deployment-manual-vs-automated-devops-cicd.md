@@ -9,7 +9,5 @@ description: >-
 
 ## under construction...
 
-#### \[List of related terms\]
 
-under construction...
 

@@ -4,7 +4,7 @@
 
 #### \(Just in case your care\) 1997 \| INTJ \| 172cm
 
-#### Bachelor's Degree: CUHK BBA in Professional Accountancy, 2018
+#### Bachelor's Degree: CUHK BBA in Professional Accountancy, graduated in 2018
 
 ## Proficiency
 
@@ -12,26 +12,25 @@
 
 * Native Chinese \(Cantonese and Mandarin\)
 * Professional English
-* Limited Japanese
+* Very limited Japanese
 
 ### Programming Languages
 
 * JavaScript and TypeScript \(Development\)
 * Python \(Development and Scripting\)
 * Java \(Algorithm training\)
+* Golang \(Newbie\)
 * SQL
-* **Wanna learn when I have more time:** 
-  * Go
 
 ### Full Stack Development
 
 * Node.js + Express \(RESTFUL APIs\) + JavaScript / TypeScript + React \(& Redux\) / Template Engines & Ajax & JQuery
 * Python + Django
-* Java + Spring Boot
+* Java + Spring Boot \(Newbie, not going to put much time on SpringBoot since I found it relatively bulky for what I generally want to build\)
 * Databases - MySQL, MongoDB, Redis
 * Testings - Mocha & Chai, Jest & Enzymes, Selenium
-* Operation systems - MacOS \(I personally use Mac Book Pro\), Windows, Linux \(newbie\)
-* **Wanna learn when I have more time:** 
+* Operation systems - MacOS \(I personally use Mac Book Pro\), Windows, Linux \(Newbie\)
+* **Wanna pick up when I have more time:** 
   * DevOps - Microservices, AWS, and CICD
   * Deep learning using PyTorch and OpenCV
   * Raspberry Pi and Arduino Prototyping

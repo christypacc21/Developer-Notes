@@ -22,7 +22,7 @@ A class should only have a single responsibility, that is, only changes to one p
 
 #### 2\) Open/Closed Principle
 
-Software entities should be open for extension, but closed for modification
+Software entities should be open for extension but closed for modification
 
 #### 3\) Liskov Substitution Principle
 

@@ -1,12 +1,12 @@
 ---
 description: >-
   The things you need to know if you are a progressive software engineer without
-  a CS background.
+  a CS degree.
 ---
 
 # Introduction
 
-I am a 1997 girl. I entered the IT industry without a CS degree 🎓 and have been working as a software engineer for around two years.
+I am a 1997 girl. I have been working as a full-time software engineer for around two years.
 
 It has been an unbelievably amazing journey. 💻 ❤️ 🐫
 

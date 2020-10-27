@@ -6,13 +6,15 @@ description: >-
 
 # System Design
 
-System Design - Not solely Solution Architects' field. 
+System Design should not only be Solution Architects' scope of concern. Knowing how the system works as a whole let you make better decisions and grow to a higher
 
-How to design high-quality systems that can really solve business problems and face future challenges.
+How to design high-quality systems that can really solve business problems and face future challenges?
 
-The ability to think in a bigger picture can let you go further, even if you are still a junior developer.
+It is a big data era. Hardware has its own limits. How do we can we leverage distributed architecture to handle the big data while ensuring the system's performance and scalability?
 
-\(to be continued\)
+The ability to think in the bigger picture can let you go further, even if you are still a junior developer. What if, one day you want to become a solution architect? 
+
+I personally put a certain amount of effort into learning system design. Not only because it is a common topic in tech interviews, but also because I found clean and elegant architectures beautiful and full of wisdom. Philosophically speaking, our life is also full of architectures. I am a super tidy person, I love applying architecture philosophy in daily life to make it organized and simpler.
 
 ## Resources I use to learn System Design \(\*Practice is always the best way to learn though\):
 

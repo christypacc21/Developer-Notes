@@ -1,8 +1,8 @@
 ---
 description: >-
-  Is a bigger team size always better? The answer is No. How to determine the
-  optimum size of a team? It is a million-dollar question in software
-  development.
+  Is a bigger team size always better? The answer is actually No. How to
+  determine the optimum size of a team? It is a million-dollar question in
+  software development.
 ---
 
 # The Myth of TeamSize & Efficiency
