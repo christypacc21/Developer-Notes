@@ -65,7 +65,7 @@ The team has to spend extra effort to keep adjusting the way they adopt Agile un
 
 #### **\[When to use\]** 
 
-So far I have never worked in a commercial software development project that is not adopting Agile. From my observations, I guess it has become the trend now. 
+So far I have never worked on a commercial software development project that is not adopting Agile. From my observations, I guess it has become the trend now. 
 
 
 

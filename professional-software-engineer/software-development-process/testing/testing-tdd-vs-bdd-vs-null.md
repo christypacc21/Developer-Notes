@@ -56,7 +56,7 @@ TDD forces you to organize your thoughts before writing any code. Your code beco
 
 **3\) Easy to Debug or even NO Debugging**
 
-If you do 100% code coverage. Every time after you add some code, you run the tests to check if there is anything broken. If yes, the bug must happen somewhere between the current code and the last version of code \(since the last version got 100% passing\). Therefore, with high code coverage, spotting bug is much faster through tests than debugging line by line from scratch. 
+If you do 100% code coverage. Every time you add some code, you run the tests to check if there is anything broken. If yes, the bug must happen somewhere between the current code and the last version of code \(since the last version got 100% passing\). Therefore, with high code coverage, spotting bug is much faster through tests than debugging line by line from scratch. 
 
 **4\) Increase Development Speed**
 
@@ -70,7 +70,7 @@ I have tried TDD in development. The experience is refreshing and I frankly like
 
 Of course, there are some restrictions of TDD that if the team has no experience with it, 
 
-I believe in the future, with more development teams trying TDD and having more experiences on it, TDD will become the main trend or even a must for any development teams that want to develop quality software in a tight deadline.
+I believe in the future, with more development teams trying TDD and having more experiences with it, TDD will become the main trend or even a must for any development teams that want to develop quality software in a tight deadline.
 
 
 
@@ -90,5 +90,5 @@ I believe in the future, with more development teams trying TDD and having more 
 
 
 
-2020-10-5
+
 

@@ -4,9 +4,13 @@ description: Program = Algorithms + Data Structures
 
 # Algorithms & Data Structures
 
-I like this part of computer science. I like it as a hobby.
+Learning algorithms lets you write efficient and elegant code. A good algorithm makes your code finish the same task using fewer operations \(eg, using binary search can reduce the number of searching operations from n \(if using linear search\) to log\(n\) only, imagine n represents a billion's data\). Imagine how much memory space, computation time, and electric power \(aka $$$\) you could save by using good algorithms and data structures.
 
-will add more content...
+Learning algorithms and data structures let you become a valuable coder :\)
+
+Good at algorithms can get you a good job :\)
+
+Practicing algorithms makes you smarter :\)
 
 ## \[Language choice\]
 
@@ -29,6 +33,8 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 **4\)** Java is commonly used in interviews. Java is a secured language in coding interviews because most companies have interviewers who know Java.
 
 **=&gt; Everyone's situation is different. You may have your own answer**. Apart from Java, Python is gaining popularity as a language for learning algorithms because the syntax is so precise. Using Python can be an advantage in coding interviews, especially if you need to write code on a whiteboard by your hands. If I didn't choose Java, I will choose Python. And of course, if you have time, you can absolutely practice algorithms in multiple languages. This is good for knowing a language in-depth.
+
+
 
 
 
@@ -56,11 +62,11 @@ Personally, I use Python and JavaScript the most in my projects but I chose to l
 
 
 
-### 3\) \[Book for Interviews\] Cracking the Coding Interview: 189 Programming Questions and Solutions [\(6th Edition\)](https://amzn.to/3np5apd)
+### 3-1\) \[Book for Interviews\(Java\)\] Cracking the Coding Interview: 189 Programming Questions and Solutions [\(6th Edition\)](https://amzn.to/3np5apd)
 
 ![\(Java\) I went through this book to understand coding interviews.](../../.gitbook/assets/screenshot-2020-10-07-at-5.21.33-pm.png)
 
-### 
+
 
 ### 4\) \[Playground for writing code\] Leetcode 
 
