@@ -12,7 +12,7 @@ It has been an unbelievably amazing journey. 💻 ❤️ 🐫
 
 So I am taking some notes to organize and spread the knowledge and experiences to anyone in need, also as a record for my own study reference.
 
-if you spot any mistakes, please feel free to correct me by messages or pull requests \(I will add you as a contributor\) Cheers! :\) 
+If you spot any mistakes, please feel free to correct me by messages or pull requests \(You will be added as a contributor\) Cheers! :\) 
 
 \(The Blog is still under construction, I will keep filling the holes\)
 
