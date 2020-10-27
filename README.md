@@ -10,7 +10,7 @@ I am a 1997 girl. I have been working as a full-time software engineer for aroun
 
 It has been an unbelievably amazing journey. 💻 ❤️ 🐫
 
-So I am taking some notes to spread the knowledge and experiences to anyone in need.
+So I am taking some notes to organize and spread the knowledge and experiences to anyone in need, also as a record for my own study reference.
 
 Since I am also still learning, please feel free to correct me \(by messages or pull requests\) if you spot any mistakes:\) Cheers!
 
