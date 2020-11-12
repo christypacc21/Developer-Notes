@@ -30,9 +30,31 @@ Their syntax is similar but **if you don't have a specific reason to use Python2
 
 \(under construction\)
 
-## \[How Python works and Python's characteristics\]
+## \[How Python works and Python's iconic characteristics\]
 
 \(under construction\)
+
+Language analysis 
+
+* Strong
+* Dynamic
+
+Primitive Datatypes
+
+* integer \(represent whole numbers from negative infinity to infinity\)
+* float \(rational numbers that usually end with a decimal figure\)
+* boolean \(either True or False\)
+* string \(stores data that involves characters, denoted by single or double quotes, eg "ha"\)
+
+Non-primitive Datatypes
+
+* Lists \(similar to "array" \[ \]  in JavaScript\)
+* Dictionaries \(similar to "object" { } in JavaScript\)
+* Tuples \(immutable Lists\)
+* Sets \(Dictionaries that only allow unique items\)
+* Files
+
+
 
 ## Recommended Resources \(and Learning Path\)
 

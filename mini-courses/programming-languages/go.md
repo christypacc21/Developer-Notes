@@ -4,5 +4,13 @@ description: >-
   Google
 ---
 
-# Go \(or called Goland\)
+# Go \(or called Golang\)
+
+## \[Notes\]
+
+## \[Golang is commonly used for\]
+
+## \[How Golang works and Golang's iconic characteristics\]
+
+## Recommended Resources \(and Learning Path\)
 

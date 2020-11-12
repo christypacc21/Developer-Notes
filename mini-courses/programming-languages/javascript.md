@@ -8,3 +8,19 @@ description: >-
 
 under constructions...
 
+
+
+## \[Notes\]
+
+## \[JavaScript is commonly used for\]
+
+## \[How JS works and JS's iconic characteristics\]
+
+## Recommended Resources \(and Learning Path\)
+
+
+
+
+
+
+
