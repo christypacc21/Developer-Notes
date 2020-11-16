@@ -21,7 +21,7 @@ It is not a course by a university but I personally took this and found it clear
 
 ### 2\) \(Chinese\) \[2019 王道考研 操作系统\]
 
-The most popular online revision course for Operation System university exam \(master degree entrance exam\) in mainland China.
+The most popular online revision course for Operation System university exam \(master's degree entrance exam\) in mainland China.
 
 {% embed url="https://www.bilibili.com/video/BV1YE411D7nH?from=search&seid=8315345152858536791" caption="In Chinese \| 21 hours" %}
 

@@ -21,7 +21,7 @@ will add more content...
 
 ### 2\) \(Chinese\) \[2019 王道考研 计算机组成原理\]
 
-The most popular online revision course for "The Computer Composition" university exam \(master degree entrance exam\) in mainland China.
+The most popular online revision course for "The Computer Composition" university exam \(master's degree entrance exam\) in mainland China.
 
 {% embed url="https://www.bilibili.com/video/BV1BE411D7ii?p=1" caption="In Chinese \| 34 hours" %}
 
