@@ -34,6 +34,10 @@ Although it is always better to know more than less, time is a limited resource.
 
 _**Spending time on CS foundation knowledge might seem like a waste of time because it is a time-consuming long journey and it focuses on the theoretical side which probably could not help you do CRUD quicker. However, in the long term, it gives you the power to understand the most intrinsic things, and thus you could know how to really utilize the power of computers to do great things. Especially if you want to be a programmer for a very long time.**_
 
+_\*\*\*\*_
+
+**Bamboo** _****_🎋🎋🎋 is one of the most admirable plants in Chinese culture. It is giantly tall and flexible. In the first few years when bamboo is still a baby, bamboo doesn't seem to grow much, it remains similar height. But actually, it is spending its effort growing its root downwards as deep as possible. One day after a few years, when everything is ready, it starts to surge and grow upwards rapidly. It could grow impressively tall and form a feast for the eyes. It is because of its solid foundation, which it spent years of effort building.
+
 ![Picture from : https://bambubatu.com/bamboo-proverbs-great-quotes-about-bamboo/](../../.gitbook/assets/screenshot-2020-11-16-at-12.05.09-pm.png)
 
 
