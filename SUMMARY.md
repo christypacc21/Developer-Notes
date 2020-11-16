@@ -107,6 +107,15 @@
   * [Industry Differences - Internet vs software vs vendor etc](other-information-1/under-construction/industry-differences-internet-vs-software-vs-vendor-etc.md)
   * [Roles in the IT industry](other-information-1/under-construction/roles-in-the-it-industry.md)
 
+## Q & A
+
+* [\(Under construction\)](q-and-a/under-construction.md)
+
+## Spiritual Quotes <a id="spirit-quotes"></a>
+
+* [\(under construction\)](spirit-quotes/under-construction/README.md)
+  * [Important mindsets](spirit-quotes/under-construction/important-mindsets.md)
+
 ## Message Box
 
 * [Contact](message-box/contact.md)
