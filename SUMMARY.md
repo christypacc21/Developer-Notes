@@ -53,7 +53,6 @@
     * [React Native \(TS / JS Library\)](mini-courses/frontend/frameworks-and-libraries/react-native-ts-js-library.md)
     * [Angular \(TS Framework\)](mini-courses/frontend/frameworks-and-libraries/angular.md)
     * [Template engines](mini-courses/frontend/frameworks-and-libraries/template-engines.md)
-* [BDD](mini-courses/bdd.md)
 * [\(under construction\)](mini-courses/under-construction/README.md)
   * [What tech stack to choose](mini-courses/under-construction/what-tech-stack-to-choose/README.md)
     * [List of Tech Fields](mini-courses/under-construction/what-tech-stack-to-choose/list-of-tech-fields.md)
@@ -78,6 +77,7 @@
     * [CAP Theorem](mini-courses/under-construction/system-design/cap-theorem.md)
     * [Firewall](mini-courses/under-construction/system-design/firewall.md)
     * [Microservices](mini-courses/under-construction/system-design/microservices.md)
+  * [BDD](mini-courses/under-construction/bdd.md)
   * [What will happen after you enter a URI in the browser](mini-courses/under-construction/what-will-happen-after-you-enter-a-uri-in-the-browser.md)
 
 ## Experience share <a id="experience-share-1"></a>

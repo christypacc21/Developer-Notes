@@ -6,9 +6,7 @@ description: >-
 
 # React Native \(TS / JS Library\)
 
-2020-10-3
-
-I have experience of using React Native to develop a commercial application \(did not use it with Expo because I found using Expo would lead to some weird UI problems at that time\). It is quite handy and easy to pick up if you already know React and JavaScript \(or TypeScript\). It can be used with an application state management library \(eg Redux\).
+I have experience using React Native to develop a commercial application \(did not use it with Expo because I found using Expo would lead to some weird UI problems at that time\). It is quite handy and easy to pick up if you already know React and JavaScript \(or TypeScript\). It can be used with an application state management library \(eg Redux\).
 
 **\[Suitable for\]** 
 
