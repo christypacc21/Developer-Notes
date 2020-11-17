@@ -4,7 +4,7 @@ description: "A long but fruitful journey. Be like bamboo\U0001F38B. Stay hungry
 
 # 4 Most Important Topics
 
-**Background: I self-learned programming\(elementary level\) and went to a 5-month full-time coding boot camp before I got a software engineer job. I do not have a CS degree.** 
+**Background: I self-learned programming \(HTML, CSS, JS, Java, Python\) \(just beginner level\) in senior year and went to a 5-month full-time coding boot camp before I got a software engineer job. I do not have a CS degree.** 
 
 According to my personal experience, by purely picking up a modern web framework \(eg MERN stack\) and a few core development languages \(eg JavaScript and Python\), I could actually start working and contributing to a development project. 
 
