@@ -2,15 +2,15 @@
 description: Especially important to make Agile possible
 ---
 
-# OOD 5 Principles
+# OOD 5 Principles \(SOLID\)
 
-### Good OOD makes your code neat, precise, readable, robust, extendable, flexible, and maintainable. 
+#### Good OOD makes your code neat, precise, readable, robust, extendable, flexible, and maintainable. 
 
-### Your team will be happier to work with you. 
+#### Your team will be happier to work with you. 
 
-### Also, the code becomes agile enough to enable Agile \([what is Agile?](https://christypacc21.gitbook.io/developer-notes/professional-software-engineer/software-development-process/agile-vs-waterfall)\) to run smoothly in your project.
+#### Also, the code becomes agile enough to enable Agile \([what is Agile?](https://christypacc21.gitbook.io/developer-notes/professional-software-engineer/software-development-process/agile-vs-waterfall)\) to run smoothly in your project.
 
-#### If you use scripting languages like Python and JavaScript, instead of OOP languages like Java and C++, the concepts may be quite abstract for you to understand deeply. It is fine, just try to understand the broad view first.
+If you use scripting languages like Python and JavaScript, instead of OOP languages like Java and C++, the concepts may be quite abstract for you to understand deeply. It is fine, just try to understand the broad view first.
 
 ### 
 

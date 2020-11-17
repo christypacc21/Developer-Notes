@@ -15,7 +15,7 @@
   * [Deployment - Manually vs Automated \(DevOps CICD\)](professional-software-engineer/software-development-process/deployment-manual-vs-automated-devops-cicd.md)
 * [Writing clean code](professional-software-engineer/writing-clean-code/README.md)
   * [Code Architecture](professional-software-engineer/writing-clean-code/code-architecture/README.md)
-    * [OOD 5 Principles](professional-software-engineer/writing-clean-code/code-architecture/ood-5-principles.md)
+    * [OOD 5 Principles \(SOLID\)](professional-software-engineer/writing-clean-code/code-architecture/ood-5-principles.md)
     * [OOP 4 Pillars](professional-software-engineer/writing-clean-code/code-architecture/oop-4-pillars.md)
     * [23 Design Patterns by GoF](professional-software-engineer/writing-clean-code/code-architecture/23-design-patterns-by-gof.md)
   * [Coding style](professional-software-engineer/writing-clean-code/coding-style.md)
