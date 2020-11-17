@@ -26,7 +26,15 @@ description: Object-Oriented Programming brief introduction.
 
 "Defining a \(parent\) interface to be reused. It outlines a bunch of common methods. Then, each child class implements its own version of these methods."
 
+
+
+### The above notes are extracted from this clear article :
+
 {% embed url="https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/\#:~:text=The%20four%20principles%20of%20object,abstraction%2C%20inheritance%2C%20and%20polymorphism" caption="Clear explanation of OOP 4 pillars" %}
+
+### 
+
+### This video also explains them well :
 
 {% embed url="https://www.youtube.com/watch?v=pTB0EiLXUC8" %}
 
