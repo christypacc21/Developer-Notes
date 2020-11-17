@@ -82,10 +82,10 @@
 
 ## Experience share <a id="experience-share-1"></a>
 
-* [The art of choosing what to learn](experience-share-1/the-art-of-choosing-what-to-learn.md)
+* [Fixing my own iPhone](experience-share-1/fixing-iphone-myself.md)
 * [How I learn new Tech knowledge](experience-share-1/how-i-learn-new-tech-knowledge.md)
 * [Get the right book\(s\) to read](experience-share-1/get-the-right-book-s-to-read.md)
-* [Fixing my own iPhone](experience-share-1/fixing-iphone-myself.md)
+* [The art of choosing what to learn](experience-share-1/the-art-of-choosing-what-to-learn.md)
 * [\(under construction\)](experience-share-1/under-construction/README.md)
   * [Signs of terrible code](experience-share-1/under-construction/signs-of-smelly-code.md)
   * [Should I use Java or Node.js for my project?](experience-share-1/under-construction/should-i-use-java-or-node.js-for-my-project.md)

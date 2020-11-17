@@ -1,12 +1,10 @@
 ---
 description: >-
-  - snowball, repeat... [*Practising and outputting is the best way to learn and
+  Snowball, repeat... [*Practising and outputting is the best way to learn and
   really understand something]
 ---
 
 # How I learn new Tech knowledge
-
-### \[will add more content...\]
 
 ### At different stages, different \(combinations of\) methods are adopted. 
 
@@ -29,4 +27,6 @@ Of course, some of them are more advanced so I cannot understand them at first g
 #### **All stage - Take notes and output**
 
 Along the study journey, I like making notes to organize and record what I have learned.
+
+
 
