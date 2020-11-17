@@ -18,7 +18,7 @@
 
 * JavaScript and TypeScript \(Development\)
 * Python \(Development and Scripting\)
-* Java \(Algorithm training\)
+* Java \(Learning Algorithms and Data Structures\)
 * Golang \(Newbie\)
 * SQL
 
