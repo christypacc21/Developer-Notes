@@ -10,7 +10,6 @@
   * [Testing](professional-software-engineer/software-development-process/testing/README.md)
     * [Testing Techniques Overview](professional-software-engineer/software-development-process/testing/testing-techniques-overview.md)
     * [TDD](professional-software-engineer/software-development-process/testing/testing-tdd-vs-bdd-vs-null.md)
-    * [BDD](professional-software-engineer/software-development-process/testing/bdd.md)
   * [Different Roles / Stakeholders](professional-software-engineer/software-development-process/different-roles-stakeholders.md)
   * [The Myth of TeamSize & Efficiency](professional-software-engineer/software-development-process/the-myth-of-teamsize-and-efficiency.md)
   * [Deployment - Manually vs Automated \(DevOps CICD\)](professional-software-engineer/software-development-process/deployment-manual-vs-automated-devops-cicd.md)
@@ -25,9 +24,6 @@
   * [Working in a team using Git](professional-software-engineer/version-control-git/working-in-a-team.md)
 * [System Design](professional-software-engineer/system-design-not-solely-sas-field.md)
 * [Documentation](professional-software-engineer/documentation-and-knowledge-transfer.md)
-* [What tech stack to choose](professional-software-engineer/what-tech-stack-to-choose/README.md)
-  * [List of Tech Fields](professional-software-engineer/what-tech-stack-to-choose/list-of-tech-fields.md)
-  * [List of General Dev Tools](professional-software-engineer/what-tech-stack-to-choose/untitled-1.md)
 
 ## CS foundation knowledge <a id="cs-foundation-knowledge-1"></a>
 
@@ -57,7 +53,11 @@
     * [React Native \(TS / JS Library\)](mini-courses/frontend/frameworks-and-libraries/react-native-ts-js-library.md)
     * [Angular \(TS Framework\)](mini-courses/frontend/frameworks-and-libraries/angular.md)
     * [Template engines](mini-courses/frontend/frameworks-and-libraries/template-engines.md)
+* [BDD](mini-courses/bdd.md)
 * [\(under construction\)](mini-courses/under-construction/README.md)
+  * [What tech stack to choose](mini-courses/under-construction/what-tech-stack-to-choose/README.md)
+    * [List of Tech Fields](mini-courses/under-construction/what-tech-stack-to-choose/list-of-tech-fields.md)
+    * [List of General Dev Tools](mini-courses/under-construction/what-tech-stack-to-choose/untitled-1.md)
   * [Backend](mini-courses/under-construction/backend/README.md)
     * [Node.js \(JS Runtime Env\)](mini-courses/under-construction/backend/node.js.md)
     * [Django \(Python Framework\)](mini-courses/under-construction/backend/django.md)

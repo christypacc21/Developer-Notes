@@ -20,7 +20,7 @@ The smallest unit in testing. Test a single unit of code. Especially useful for 
 
 ### Integration Test
 
-A bigger picture than unit tests. It connects components to see how they work together or to test the connections between different units of code, in order to see if a function is doing the things right, and doing the right things as a whole. 
+A bigger picture than unit tests. It connects components to see how they work together or to test the connections between different units of code, in order to see if a function is doing the things right and doing the right things as a whole. 
 
 It usually needs more advanced skills like mocking, spying, and stubbing.
 
@@ -34,7 +34,9 @@ Related concepts involve black box testing vs white box testings, etc.
 
 ## \[Common Testing Tools for Different Tech Stacks\]
 
-
+\(under construction\)
 
 ## \[Grossory - Terms and brief explanation\]
+
+\(under construction\)
 

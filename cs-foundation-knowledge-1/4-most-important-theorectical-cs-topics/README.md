@@ -26,13 +26,17 @@ I once considered to get a CS master's degree, but I am quite tired of regular s
 
 ### After having the list, I prioritized the fields of knowledge and learn them one by one to fill my CS knowledge gap. 
 
-Although it is always better to know more than less, time is a limited resource. I hereby extracted the 4 Most Important Theoretical CS Topics for people with backgrounds similar to mine. Of course, you are encouraged to have your own learning plans. It is just a reference in case you don't have time to do the research. **Anyway, the core message is: After building up the most core foundation, learning other advanced topics would be much easier.** 
+Although it is always better to know more than less, time is a limited resource. **I hereby extracted the 4 Most Important Theoretical CS Topics for people with backgrounds similar to mine.** Of course, you are encouraged to have your own learning plans. It is just a reference in case you don't have time to do the research. 
 
 
 
 ### Why?
 
 _**Spending time on CS foundation knowledge might seem like a waste of time because it is a time-consuming long journey and it focuses on the theoretical side which probably could not help you do CRUD quicker. However, in the long term, it gives you the power to understand the most intrinsic things, and thus you could know how to really utilize the power of computers to do great things. Especially if you want to be a programmer for a very long time.**_
+
+**Anyway, the core message is: After building up the most core foundation, learning other advanced topics would be much easier.** 
+
+_\*\*\*\*_
 
 _\*\*\*\*_
 

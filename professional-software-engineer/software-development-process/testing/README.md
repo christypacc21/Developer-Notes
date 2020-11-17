@@ -7,7 +7,7 @@ description: >-
 
 # Testing
 
-## In this section, we will take a look at testing methodologies that are widely used in the industry. 
+### In this section, we will take a look at testing methodologies that are widely used in the industry. 
 
 #### Bear in mind the word TDD, Test-Driven Development. 
 
