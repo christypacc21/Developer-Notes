@@ -14,17 +14,15 @@ I once considered to get a CS master's degree, but I am quite tired of regular s
 
 
 
-### Here is what I did to extract what I should learn in case you are curious:
+### Here is what I did to extract what I should learn, in case you are curious:
 
 1\) Go through Universities' CS Bachelor's degree course lists  \(from world-famous universities like Standford, MIT, Tsinghua, to normal ones\). I guess it is the most authorized source of information.
 
-2\) Ask the programmers and tech leads around me \(for example, my colleagues who graduated with a CS degree\).
-
-3\) Forums' information.
+2\) Industry experience - Get the advice given by industry people. Ask the programmers and tech leads around me \(for example, my colleagues who graduated with a CS degree\). Also, attend tech sharing sessions both online and offline. Get the advice given by industry people. Also, follow some quality blogs and youtube channels.
 
 
 
-### After having the list, I prioritized the fields of knowledge and learn them one by one to fill my CS knowledge gap. 
+### After having the list, I prioritized the fields of knowledge and learned them one by one to fill my CS knowledge gap. 
 
 Although it is always better to know more than less, time is a limited resource. **I hereby extracted the 4 Most Important Theoretical CS Topics for people with backgrounds similar to mine.** Of course, you are encouraged to have your own learning plans. It is just a reference in case you don't have time to do the research. 
 
