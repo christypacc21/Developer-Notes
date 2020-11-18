@@ -50,6 +50,14 @@ To understand a programming language, you can start by knowing what type it is.
 
 The CS industry has categorized different programming languages into 4 main categories. The above graph is from [this blog](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b), the blog pretty much explained the concepts.
 
+
+
+Also a good article :
+
+{% embed url="https://medium.com/@cpave3/understanding-types-static-vs-dynamic-strong-vs-weak-88a4e1f0ed5f" %}
+
+
+
 \_\_
 
 \_\_
