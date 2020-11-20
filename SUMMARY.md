@@ -41,7 +41,7 @@
 
 * [Programming Languages](mini-courses/programming-languages/README.md)
   * [Python](mini-courses/programming-languages/python.md)
-  * [Javascript](mini-courses/programming-languages/javascript.md)
+  * [JavaScript](mini-courses/programming-languages/javascript.md)
   * [Java](mini-courses/programming-languages/java.md)
   * [Go \(or called Golang\)](mini-courses/programming-languages/go.md)
   * [Relational database - SQL](mini-courses/programming-languages/relational-database-sql.md)
