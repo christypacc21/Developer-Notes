@@ -114,7 +114,7 @@
 
 ## Spiritual Quotes <a id="spirit-quotes"></a>
 
-* [\(under construction\)](spirit-quotes/important-mindsets.md)
+* [Important mindsets](spirit-quotes/important-mindsets.md)
 
 ## Message Box
 
