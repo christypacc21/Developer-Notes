@@ -56,6 +56,7 @@
 * [Others](mini-courses/others/README.md)
   * [Communication protocals](mini-courses/others/communication-protocals.md)
   * [GraphQL](mini-courses/others/graphql.md)
+  * [\[Chinese\] Java Development](mini-courses/others/chinese-java-development.md)
 * [\(under construction\)](mini-courses/under-construction/README.md)
   * [What tech stack to choose](mini-courses/under-construction/what-tech-stack-to-choose/README.md)
     * [List of Tech Fields](mini-courses/under-construction/what-tech-stack-to-choose/list-of-tech-fields.md)
