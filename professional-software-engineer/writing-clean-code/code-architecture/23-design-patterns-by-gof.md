@@ -13,11 +13,19 @@ According to "The 80-20 rule", roughly 80% of the effects come from 20% of the c
 
 
 
-## 1\) \[The Original Book\] Design Patterns: Elements of Reusable Object-Oriented Software [\(1st Edition\)](https://amzn.to/3iC0oBe)
+## Core Resource that I have been using to learn Design Patterns
+
+{% embed url="https://refactoring.guru/design-patterns/catalog" %}
+
+
+
+## Other famous resources in the industry:
+
+### 1\) \[The Original Book\] Design Patterns: Elements of Reusable Object-Oriented Software [\(1st Edition\)](https://amzn.to/3iC0oBe)
 
 ![The origianl book by the GoF \(the four athors\)](../../../.gitbook/assets/screenshot-2020-10-07-at-9.26.35-pm.png)
 
-## 2\) \[Beginner-friendly Book\] Head First Design Patterns: A Brain-Friendly Guide [\(1st Edition\)](%20https://amzn.to/3d3MDtS)
+### 2\) \[Beginner-friendly Book\] Head First Design Patterns: A Brain-Friendly Guide [\(1st Edition\)](%20https://amzn.to/3d3MDtS)
 
 ![Code are all in Java, but still suitable for those who don&apos;t use Java](../../../.gitbook/assets/screenshot-2020-10-07-at-9.28.42-pm.png)
 
