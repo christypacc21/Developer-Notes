@@ -13,9 +13,21 @@ According to "The 80-20 rule", roughly 80% of the effects come from 20% of the c
 
 
 
-## Core Resource that I have been using to learn Design Patterns
+## Core Resources that I have been using to learn Design Patterns
 
-{% embed url="https://refactoring.guru/design-patterns/catalog" %}
+
+
+### 1\) \[English\] Website
+
+{% embed url="https://refactoring.guru/design-patterns/catalog" caption="" %}
+
+
+
+### 2\) \[Chinese\] EBook
+
+![](../../../.gitbook/assets/screenshot-2021-01-24-at-11.21.02-am.png)
+
+{% file src="../../../.gitbook/assets/zhong-xue-java-she-ji-mo-shi-xiao-fu-ge-gong-zhong-hao-bugstack-chong-dong-zhan-.pdf" %}
 
 
 
