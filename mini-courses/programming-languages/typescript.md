@@ -1,8 +1,8 @@
 ---
 description: >-
   A strongly typed superset of JavaScript that adds types to JavaScript using a
-  set of tools called a type system. TS will compile to plain JS in order to
-  enable the code to run in browsers.
+  set of tools called a type system. TS will compile to (i.e. turn into) plain
+  JS in order to be able to run in browsers.
 ---
 
 # TypeScript
