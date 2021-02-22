@@ -17,7 +17,7 @@ description: >-
 
 ## Learning Path
 
-{% embed url="https://www.codecademy.com/learn/learn-typescript" caption="Absolte Beginner" %}
+{% embed url="https://www.codecademy.com/learn/learn-typescript" caption="Absolute Beginner" %}
 
 
 
