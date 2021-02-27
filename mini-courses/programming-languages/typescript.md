@@ -9,7 +9,9 @@ description: >-
 
 ## Brief Introduction 
 
-![https://morioh.com/p/68a5f1f5b6b9](../../.gitbook/assets/screenshot-2021-02-22-at-2.31.01-am.png)
+![](../../.gitbook/assets/screenshot-2021-02-22-at-2.31.01-am.png)
+
+{% embed url="https://morioh.com/p/68a5f1f5b6b9" caption="1-minute reading" %}
 
 
 
@@ -28,6 +30,20 @@ description: >-
 {% embed url="https://github.com/typescript-cheatsheets/react" caption="Advanced TypeScript for React development" %}
 
 
+
+
+
+## Other Important Concepts
+
+{% embed url="https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshell-cb2fdeeffe6e" %}
+
+
+
+
+
+## Official Documentation
+
+{% embed url="https://www.typescriptlang.org/docs/handbook/intro.html" %}
 
 
 
