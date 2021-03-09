@@ -6,7 +6,7 @@ description: >-
 
 # React Hooks
 
-
+Note: React Hooks CANNOT be used in Class.
 
 {% embed url="https://reactjs.org/docs/hooks-intro.html" %}
 
@@ -14,7 +14,15 @@ description: >-
 
 {% embed url="https://dmitripavlutin.com/react-useeffect-explanation/" %}
 
-Note : React Hooks cannot be used in Class.
+
+
+{% embed url="https://www.youtube.com/watch?v=5LrDIWkK\_Bc" %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=kK\_Wqx3RnHk" %}
+
+
 
 
 
@@ -22,5 +30,6 @@ Note : React Hooks cannot be used in Class.
 
 * Component State 
 * Rendering Lifecycle
+* Context
 * Testing \(You probably cannot test the component in the way you test a class component because Hooks components are not classes\)
 
